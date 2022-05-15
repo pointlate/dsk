@@ -48,16 +48,16 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #-*--I<+-*--#
 # I< + yêu cầu update list thường xuyên để load key mới! tại http://gg.gg/vthanhtivii
 
-#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", I<+ CINE
+#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", I<+CINE
 http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
 
-#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", I<+ LIFE
+#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", I<+LIFE
 http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
 
-#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", I<+ SPORT-1
+#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", I<+SPORT-1
 http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
 
-#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", I<+ SPORT-2
+#EXTINF:-1 tvg-id="KCINE" group-title="I< +" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", I<+SPORT-2
 http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
 
 
