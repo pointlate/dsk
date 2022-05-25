@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/l9OAKsq.jpg", Radio Cải Lương
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/l9OAKsq.jpg", Ca Cổ Cải Lương
 https://stream.zeno.fm/uvcc3zfpx38uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/pwr1G88.jpg", Radio Nhạc Vàng
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/z5ab3jM.png", Hòa Tấu Cải Lương
+http://stream.zeno.fm/1x0st5zs6rhvv
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/pwr1G88.jpg", Nhạc Vàng
 https://stream.zeno.fm/vgsusc7kw38uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/GujWnXQ.jpg", Radio Miền Trung
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/GujWnXQ.jpg", Miền Trung
 https://stream.zeno.fm/7xyn4ewnx38uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/S720VqV.jpg", Radio Miền Tây
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/S720VqV.jpg", Miền Tây
 https://stream.zeno.fm/pmagmhzfy38uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/vfh2IAd.jpg", Radio Phật Giáo
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/vfh2IAd.jpg", Phật Giáo
 https://stream.zeno.fm/k7n6rmznx38uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/L6Yus2D.jpg", Radio Nhạc Đỏ
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/L6Yus2D.jpg", Nhạc Đỏ
 https://stream.zeno.fm/k527zgznx38uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/HeDqETO.jpg", Radio Nhạc Trẻ
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/HeDqETO.jpg", RNhạc Trẻ
 https://stream.zeno.fm/kdvw4dznx38uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/2GCsUGA.jpg", Radio Nhạc Xuân
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/2GCsUGA.jpg", Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
