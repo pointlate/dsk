@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
-#PLAYLISTINF:LTN version="V01" list1="http://gg.gg/vthanhtivii" list2="http://gg.gg/list-tv"
-
-
-#EXTM3U BEARTV - Luôn cập nhật kênh ổn định - http://gg.gg/bearlivetv - BearTV không bán list IPTV và không thu bất kỳ khoản phí nào.
+#PLAYLISTINF:LTN version="V01" list1="http://gg.gg/vthanhtivii" list2="http://gg.gg/list-tivi"
 
 
 #-*--VTV-*--#
@@ -48,16 +45,16 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #-*--Ⓚ +-*--#
 # I< + yêu cầu update list thường xuyên để load key mới! tại http://gg.gg/vthanhtivii, Online vào Thứ 7 và Chủ nhật hàng tuần or khi có sự kiện
 
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/SS8LWQP.png", Ⓚ+CINE
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/SS8LWQP.png", Ⓚ+CINE
 http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
 
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/E7llVXO.png", Ⓚ+LIFE
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/E7llVXO.png", Ⓚ+LIFE
 http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
 
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/rHX2X6g.png", Ⓚ+SPORT-1
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/rHX2X6g.png", Ⓚ+SPORT-1
 http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
 
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/0MkDmu2.png", Ⓚ+SPORT-2
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/0MkDmu2.png", Ⓚ+SPORT-2
 http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
 
 
