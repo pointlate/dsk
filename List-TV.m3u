@@ -44,23 +44,14 @@ https://web-livecdn.fptplay.net/hda2/ttxvn_4000.stream/playlist.m3u8
 
 
 #-*--Ⓚ +-*--#
-# I< + yêu cầu update list thường xuyên để load key mới! tại http://gg.gg/vthanhtivii, Tạm dừng cung cấp!!!
 
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/SS8LWQP.png", Ⓚ+CINE
-#http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
-#http://live.television4you.xyz:8080/kcine
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/SS8LWQP.png", Ⓚ+CINE
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/E7llVXO.png", Ⓚ+LIFE
-#http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
-#http://live.television4you.xyz:8080/klife
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/E7llVXO.png", Ⓚ+LIFE
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/rHX2X6g.png", Ⓚ+SPORT-1
-#http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
-#http://live.television4you.xyz:8080/ksport1
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/rHX2X6g.png", Ⓚ+SPORT-1
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ + Online Thứ 7 & Chủ nhật" tvg-logo="https://i.imgur.com/0MkDmu2.png", Ⓚ+SPORT-2
-#http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
-#http://live.television4you.xyz:8080/ksport2
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/0MkDmu2.png", Ⓚ+SPORT-2
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #-*--VTVCAB-*--#
