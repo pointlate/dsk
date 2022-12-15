@@ -101,63 +101,63 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 
 #-*--KÊNH MẸ-*--#
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png", Vĩnh Long 1
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png", Vĩnh Long 1
+https://web-livecdn.fptplay.net/hda1/vinhlong1_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png", Vĩnh Long 2
+https://web-livecdn.fptplay.net/hda2/vinhlong2_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png", Vĩnh Long 3
+https://web-livecdn.fptplay.net/hda2/vinhlong3_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png", Vĩnh Long 4
+https://web-livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png", Vĩnh Long 2
-https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png", Vĩnh Long 3
-https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png", Vĩnh Long 4
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2 - Vie Channel
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png, HTV3
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3 - Heo TV
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/55.png", HTVC Thuần Việt HD
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/dQPnsWt/travinhtv-BEARTV.png", Trà Vinh
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/L8T5MGF/VTC7-BEARTV.png", VTC7 - todayTV
+#https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/dQPnsWt/travinhtv-BEARTV.png", Trà Vinh
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/L8T5MGF/VTC7-BEARTV.png", VTC7 - todayTV
-https://api.vthanhtivi.pw/v1/getlink/vieon/vtc7-todaytv-hd
-
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png", Hậu Giang
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png", Hậu Giang
 https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", Bà Rịa – Vũng Tàu
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png", Cần Thơ
-https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png", Tây Ninh
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png", Cần Thơ
+https://mekongpassion.com/live/tv/chunklist_w544491061.m3u8
+
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png", Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png", Bình Phước 1
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png", Bình Phước 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/QjBBqg5/binhphuoc2-BEARTV.png", Bình Phước 2
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/QjBBqg5/binhphuoc2-BEARTV.png", Bình Phước 2
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/1zRv1bF/BENTRE-BEARTV.png", Bến Tre
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/1zRv1bF/BENTRE-BEARTV.png", Bến Tre
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/qdFVPyW/VTC10-BEARTV.png", VTC10
-https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://i.ibb.co/qdFVPyW/VTC10-BEARTV.png", VTC10
+https://web-livecdn.fptplay.net/sdb/vtc10_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png", SCTV 1 - Hài
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 
+https://api.vthanhtivi.pw/v2/getlink/sctv/sctv1/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png", SCTV 7 - Sân Khấu
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV 7 - Sân Khấu
+https://api.vthanhtivi.pw/v2/getlink/sctv/sctv7/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png", SCTV9
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
+#EXTINF:-1 group-title="KÊNH MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 
+https://api.vthanhtivi.pw/v2/getlink/sctv/sctv9/playlist.m3u8
 
 
