@@ -1,28 +1,36 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/vn.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz" tvg-shift=0 m3uautoload=1
 #PLAYLISTINF:LTN version="V01"
 
-
+#-*--Ⓚ +-*--#
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/h2wfojsx92zyyk9/vnpt-kcinehd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/SS8LWQP.png", Ⓚ+CINE
+#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BCine?file=Kplus_Cine_HD.png", Ⓚ+CINE 🔴
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/dhnu6wt5ujzj3br/vnpt-klifehd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/E7llVXO.png", Ⓚ+LIFE
+#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BLife?file=K%2B_Life_HD_2021.png", Ⓚ+LIFE 🔴
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/6o4v5ftod6f1epi/vnpt-ksport1hd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/rHX2X6g.png", Ⓚ+SPORT-1
+#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo=https://logos.fandom.com/vi/wiki/K%2BSport_1?file=Kplus_Sport_1_HD.png", Ⓚ+SPORT-1 🔴
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/vxfjw1a1nn9tkl5/vnpt-ksport2hd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/0MkDmu2.png", Ⓚ+SPORT-2
+#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BSport_2?file=Kplus_Sport_2_HD.png", Ⓚ+SPORT-2 🔴
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d36f3ca0ceb44a0881a34876a7bd2e68:94b553e8ddc197ac29e87a65559703cb
+#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BKids?file=K%2B_Kids_HD_2021.png", Ⓚ+KIDS ⚫
+#https://tiengdong.com/wp-content/uploads/Video-math-background-green-screen-www_tiengdong_com.mp4?_=1
+#https://tiengdong.com/wp-content/uploads/Video-thanks-for-watching-outro-www_tiengdong_com.mp4?_=1
+https://tiengdong.com/wp-content/uploads/Video-khoi-nen-xanh-www_tiengdong_com.mp4?_=1
 
