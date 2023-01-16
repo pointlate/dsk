@@ -1,36 +1,36 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/vn.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #PLAYLISTINF:LTN version="V01"
 
-#-*--Ⓚ +-*--#
+#-*--🔵🔴︎🔴Ⓚ +-*--#
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/eupqj4qb5flttro/kplus-kcinehd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BCine?file=Kplus_Cine_HD.png", Ⓚ+CINE 🔴
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", Ⓚ+CINE 🔴
+https://longpt.net/vtvcabon/k-plus-1.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/aqnfkccma8bs9t6/kplus-klifehd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BLife?file=K%2B_Life_HD_2021.png", Ⓚ+LIFE 🔴
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", Ⓚ+LIFE 🔴
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/76p2ekl8788z0wt/kplus-ksport1hd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo=https://logos.fandom.com/vi/wiki/K%2BSport_1?file=Kplus_Sport_1_HD.png", Ⓚ+SPORT-1 🔴
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo=https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", Ⓚ+SPORT-1 🔴
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/mwewwuc48wxwb7w/kplus-ksport2hd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BSport_2?file=Kplus_Sport_2_HD.png", Ⓚ+SPORT-2 🔴
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", Ⓚ+SPORT-2 🔴
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4ewfrm0a5foxgma/kplus-kkidshd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="🔵 Ⓚ +" tvg-logo="https://logos.fandom.com/vi/wiki/K%2BKids?file=K%2B_Kids_HD_2021.png", Ⓚ+KIDS 🔴
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-#https://tiengdong.com/wp-content/uploads/Video-khoi-nen-xanh-www_tiengdong_com.mp4?_=1
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png", Ⓚ+KIDS 🔴
+https://longpt.net/vtvcabon/k-plus-kids.m3u8
+
 
