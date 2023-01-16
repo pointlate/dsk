@@ -26,18 +26,18 @@ https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
-https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", Đồng Tháp
+#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", Đồng Tháp
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", Đồng Tháp 2 - Miền Tây
+#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", Đồng Tháp 2 - Miền Tây
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/T8mqnnF/soctrang1-BEARTV.png", Sóc Trăng 1
@@ -108,7 +108,6 @@ https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/L8T5MGF/VTC7-BEARTV.png", VTC7 - todayTV
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
-
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png", Hậu Giang
 https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
