@@ -40,7 +40,6 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 
 
 
-
 #-*--🔵🔴︎🔴Ⓚ +-*--#
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -72,6 +71,7 @@ https://longpt.net/vtvcabon/k-plus-pc.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4ewfrm0a5foxgma/kplus-kkidshd.key
 #EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png", Ⓚ+KIDS 🔴
 https://longpt.net/vtvcabon/k-plus-kids.m3u8
+
 
 
 #-*--VTVCAB-*--#
@@ -290,18 +290,20 @@ https://api.vthanhtivi.pw/v2/getlink/tv360/31/0.m3u8
 #EXTINF:-1 group-title="HÀHỘI CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
  
-#-*--VĨNH LONG-*--#
-#EXTINF:-1 group-title="VĨNH LONG" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png", Vĩnh Long 1
-https://web-livecdn.fptplay.net/hda1/vinhlong1_4000.stream/playlist.m3u8
-#EXTINF:-1 group-title="VĨNH LONG" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png", Vĩnh Long 2
-https://web-livecdn.fptplay.net/hda2/vinhlong2_4000.stream/playlist.m3u8
-#EXTINF:-1 group-title="VĨNH LONG" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png", Vĩnh Long 3
-https://web-livecdn.fptplay.net/hda2/vinhlong3_4000.stream/playlist.m3u8
-#EXTINF:-1 group-title="VĨNH LONG" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png", Vĩnh Long 4
-https://web-livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/playlist.m3u8
+#-*--TH VĨNH LONG-*--#
+#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", Vĩnh Long 1
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", Vĩnh Long 2
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long 3
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long 4
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #-*--KÊNH ĐỊA PHƯƠNG-*--#
-https://web-livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VSJQW77/BTV1-BEARTV.png", BTV 1
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/zRk5HL4/BTV2-BEARTV.png", BTV 2
