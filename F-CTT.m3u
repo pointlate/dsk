@@ -1,0 +1,147 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/vn.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#PLAYLISTINF:LTN version="V01"
+
+#-*--🔵🔴︎🔴 Châu Tinh Trì 🔵🔴︎🔴--*--#
+
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://1.2.3/4/5.png", Đội Bóng Thiếu Lâm (2001)
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.ytimg.com/vi/is7ceCQT2JI/maxresdefault.jpg",Đỗ Thánh 1 (1990)
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/all_for_the_winner_1990_hongkong_lt_v3/7c9d8f81ab56a795bfbaf293b37756fb.smil/chunklist_b4628000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://image.tmdb.org/t/p/w300/MQRwB224lAgh9ZyMRk6wyrgRaZ.jpg",Đỗ Thánh 2 (1990)
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/godofgamblersii_1991_hongkong_lt_v2/1156fe0cf49a22375ba875baa13d8bac.smil/chunklist_b2828000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="http://3.bp.blogspot.com/-HBQw-D9cVzQ/VHOVcJVYSyI/AAAAAAAAAMw/oueJv2PUcPY/w1200-h630-p-k-no-nu/than-bai-1.jpg",Thần Bài 1 (1989)
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://assets.glxplay.io/static/images/god-of-gamblers-2-poster-new_banner_landscape_21x9_2048x878_3x.jpg",Thần Bài 2 (1990)
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_02fix.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://assets.glxplay.io/images/w400/title/god-of-gamblers-part-3--back-to-shanghai_web_posterLandscape_27a7f2dd49210b8ff40d1624fe8c3efc.jpg",Thần Bài 3 (1996)
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_03fix.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://cdnmedia.webthethao.vn/thumb/720-405/uploads/img/files/images/fullsize/2019/11/22/vua-pha-hoai-va-nhung-bai-hoc-chien-thuat-danh-vo-dai-tu-chau-tinh-tri.jpg",Vua Phá Hoại (1994)
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/loveondelivery-1994-hongkong-tm/LoveOnDelivery_1994_HongKong_TM_vip.smil/chunklist_b996000_sleng.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://flixwatch.co/wp-content/uploads/81038416.jpg",Bách Biến Tinh Quân (1995)
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/60milionsdollarMan/60MillionsDollarMan_1995_HongKong.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://www.flixwatch.co/wp-content/uploads/81038418.jpg.webp",Vận May Mỉm Cười (1990)
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/whenfortunesmiles/When_Fortune_Smiles_1990.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://3.bp.blogspot.com/-yIbTlwHwDwI/XR7__qxkgjI/AAAAAAAAW0E/579ob-q3OvoLSIaGDb_hwI-yUA7_oA7fQCLcBGAs/s1600/Chuyen-Gia-Bat-Ma-1995-1.jpg?imgmax=0",Chuyên Gia Bắt Ma (1995)
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://media.cdnclouds.org/img-redirect/movies/1990/anh_hung_cua_toi_my_hero_1990.jpg",Anh Hùng Của Tôi (1990)
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/myhero/My_Hero_1990.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://cyberd.org/img/4/Fist-Of-Fury-1991.jpg",Tân Tinh Võ Môn 1 (1991)
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210714/fist_of_fury_1991_hongkong_lt_v4/0823c2748d886f40b220f7ebfb977fb4.smil/chunklist_b4628000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.ytimg.com/vi/oTnYDLDg2pE/mqdefault.jpg",Tân Tinh Võ Môn 2 (1992)
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/Fist_Of_Fury_2_1991.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.postimg.cc/TYpJcN0S/mad-monk-poster.jpg",Tế Công (1993)
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/madmonk/The_Mad_Monk_1993.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://assets.glxplay.io/static/tricky-brains-poster-tag-tm_banner_landscape_21x9_2048x878_3x.jpg",Chuyên Gia Xảo Quyệt (1991)
+#https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickybrain/Tricky_Brains_1991.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210304/tricky-brains-1991-hongkong-uslt-v2/c57c82bb237c5d388b4057928c07489d.smil/chunklist_b2828000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://assets.glxplay.io/static/images/king-of-beggars-poster_banner_landscape_21x9_2048x878_3x.jpg",Trạng Nguyên Tô Khất Nhi (1992)
+#https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/KingOfBeggars_1992_HongKong.mp4/chunklist.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170331/04ae898a459924ea4494d1293c8cea31.smil/chunklist_b1998000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i0.wp.com/diendannguoiviet.com/wp-content/uploads/2021/10/Truong-Hoc-Uy-Long-1-Phim-Le-Hay-Nhat.jpg?fit=480%2C360&ssl=1",Trường Học Uy Long 1 (1991)
+#https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_1_1991.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/df7058800224db0c6818cc0dd292a7e5.smil/chunklist_b1998000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO5CZmQxuNjW30UfPfs_2fR2ZJ_fvTabBYQ&usqp=CAU",Trường Học Uy Long 2 (1992)
+#https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_2_1992.mp4/chunklist.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_2_1991_hongkong_v3/0e081a274f7af33b3dd34051acaa18d8.smil/chunklist_b2828000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://allimages.sgp1.digitaloceanspaces.com/giaitrivietnetvn/2020/12/TRUONG-HOC-UY-LONG-3-Chau-Tinh-Tri-Truong.jpg",Trường Học Uy Long 3 (1993)
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_3_1993.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_3_1993_hongkong_v2/c1d6c04a1097544452ba8d65ed4f20c7.smil/chunklist_b2828000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://img.tvzingvn.com/uploads/2016/05/658509-royal-tramp-1-1992.jpg",Tân Lộc Đỉnh Ký 1 (1992)
+#https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P01.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20181101/royal-tramp-1992-hongkong-lt/ada39ef7f89b0906775e42741960c26b.smil/chunklist_b3992000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQyY2NjMjUtZDc5YS00ZTkxLThhOTctZjAxOTAwOGUzYjA2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",Tân Lộc Đỉnh Ký 2 (1992)
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P02.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.ytimg.com/vi/seUjKhI59mI/hqdefault.jpg",Đại Nội Mật Thám (1996)
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/ForbiddenCityCop/ForbiddenCityCop_1996_HongKong.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210711/forbidden_city_cop_1996_hongkong_sub_v2/095345df326ee92f01f426b746bb2574.smil/chunklist_b2828000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://up4vn.com/Itqd0ktbSm.webp",Cảnh Sát Gặp Ma (1990)
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/LookOutOfficer_1990_HongKong/LookOutOfficer_1990_HongKong.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.ytimg.com/vi/GWM4PklxZC8/hqdefault.jpg",Bịp Vương Thượng Hải (1999)
+#https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickymaster/The_Tricky_Master_1999.mp4/chunklist.m3u8
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190612/the_tricky_master_1999_hongkong_lt/2360b89d7bed8c13dbd63b3e09d0310c.smil/chunklist_b3992000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkwOWEzMWYtNWRmNy00ZWM0LThjNmMtY2I3YmRjMTkzNTRhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",Long Tại Thiên Nhai (1989)
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/DragonFight_1989_China/DragonFight_1989_China.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://genk.mediacdn.vn/139269124445442048/2020/2/19/photo-1-1582116939590259930997.jpg",Tuyệt Đỉnh KungFu (2004)
+#https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/480p/movie/kungfuHustle/KungFuHustle.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210116/kung_fu_hustle_2004_china_sub_1080p/0075c42aa1f79c257f05b62df780a6e5.smil/chunklist_b4628000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*6780*604_8_muochl_mvg%5Bwmn%5Bzkr%5Be4%5Bivmwrgrlm%5B587v5880uy787v6xz0u8zww441v7v2uvw57u1uy5%5BZZZZYCZ0CQ0graesZKA930T%5DClUlOKSN5sLkNHpunSgzuobye05JeT6NedP3BV1H1oKr8LHg5QMV5g0Ltik2enEiATDhdP7mDFKkTFqZYvRxLOYx3zWKpho9%5DU%5DycCisrA0S1dzO3CHBvd.jpg",Tình Yêu Và Cuộc Đời (1990)
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/loveislove/Love_Is_Love_1990_720p.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://hdvietsub.net/wp-content/uploads/2016/05/511914-lung-fung-restaurant_1990.jpg",Trà Lầu Long Phụng (1990)
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/lungfung/Lung_Fung_Restaurant_1990.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/30/xhte5o0v_1920x1080_tinhthanh.png",Tình Thánh (1991)
+#https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/magnificentscoundrels/The_Magnificent_Scoundrels_1991.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190612/the-magnificent-scoundrels-1991-hongkong-lt-v2/439d58ad4f994cce635ffedd6fdfdce0.smil/chunklist_b3992000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i0.wp.com/blogmichael.com/tv/wp-content/uploads/2020/01/Cai-the-hao-hiep-min.jpg?fit=528%2C792&resize=350%2C200",Hoàng Tử Bánh Trứng (1998)
+#https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170721/theluckyguy-1998-hongkong-v2/326db59388d07e2de1684c233240b199.smil/chunklist_b1998000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://allimages.sgp1.digitaloceanspaces.com/giaitrivietnetvn/2020/08/DUONG-BA-HO-2-Phan-Tiep-Theo-Cua-Chau.jpg",Đường Bá Hổ - Điểm Thu Hương (1993)
+#https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/flirtingscholar/Flirting_Scholar_1993.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201008/flirtingscholar_1993_hongkong_lt_v4/1994b923bcbba20cbda70ce34542f76b.smil/chunklist_b4628000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4_ntc/2020/12/30/3hnek17q_1920x1080-quanxamloccoc-khongtitle_1920_1080.webp",Quan Xẩm Lốc Cốc (1994)
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/HailTheJudge/HailTheJudge_1994_HongKong.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://s1.dmcdn.net/v/IZTFA1OL0AkLYsOBP/x1080",Quốc Sản 007 (1994)
+#https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/frombeijing/From_Beijing_With_Love_1994.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161111/bbc8486da8ffa0ff0c3f81102a6aab87.smil/chunklist_b1998000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://reviewtop.vn/wp-content/uploads/2019/09/phim-ve-nau-an-2.jpg",Thực Thần (1996)
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/TheGodOfCookery.mp4/chunklist.m3u8
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/fbe80b96b161514f044699e7fed830bb.smil/chunklist_b1998000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="http://4.bp.blogspot.com/-rJNbZ7JRK7s/ViH6kVz1_PI/AAAAAAAAbFg/b6t0Ji0gi7c/s1600/lawyer%2Blawyer%2B1997.jpg",Trạng Sư Xảo Quyệt (1997)
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/LawyerLawyer_1997_HongKong.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/16/mhfo6jnu_1920x1080-sieukhuyenthanthong57cb6be7996441b97a112acdab70bef2.jpg",Siêu Khuyển Thần Thông (1997)
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/LawyerLawyer_1997_HongKong.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://image.thanhnien.vn/w2048/Uploaded/2021/cqjwqlqjd/2019_02_10/v1_iqde.png",Vua Hài Kịch (1999)
+#https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/kingofcomedy/The_King_Of_Comedy_1999.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201011/kingofcomedy_1999_hongkong_lt_v3/4f009b660af0129234d27c188362c5b8.smil/chunklist_b4628000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.ytimg.com/vi/PQqxmer49Io/maxresdefault.jpg",Vỏ Quýt Dày Có Móng Tay Nhọn (1990)
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/CurryAndPepper_1990_HongKong.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="http://1.bp.blogspot.com/-mRYtWR6uxo0/T0CTI6WrkkI/AAAAAAAAKh0/tF3_1SNFK2c/s1600/ghhs2.jpg",Gia Hữu Hỷ Sự (1992)
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170105/5382364557f8cd6edbfbc09617351761.smil/chunklist_b2992000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.ytimg.com/vi/Wlo7RO3AwqM/maxresdefault.jpg",Đại Thoại Tây Du 1 (1994)
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200921/a_chinese_odyssey_part_i_china_1994_lt/753b58b2554f12a0b6aefea052162683.smil/chunklist_b2828000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://kenh14cdn.com/k:thumb_w/600/zah81cnNtB2Jo04bYuUccccccccccc/Image/2013/07/Tay-Du/taydu05-4d16b/dai-thoai-tay-du-2-se-doi-dau-voi-chau-tinh-tri.jpg",Đại Thoại Tây Du 2 (1994)
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210303/a_chinese_odyssey_part_ii_china_1994_lt_v5/6f2311394f4c2e1bc7eab69605bf68f6.smil/chunklist_b2828000.m3u8
+
+#EXTINF:-1 group-title="Châu Tinh Trì" tvg-logo="https://i.ytimg.com/vi/gnfKkzh4TR4/maxresdefault.jpg",Tây Du Ký Ngoại Truyện (2013)
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM.mp4/chunklist.m3u8
