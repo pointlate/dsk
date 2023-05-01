@@ -1,45 +1,35 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-
-
 #-*--🔵🔴︎🔴🅺✚-*--#
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", 🅺✚ CINE 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/cewya2p36xsvdn2/kplus-kcinehd.key
-
 https://kplus-livecdn.fptplay.net/drmlive/k1cine_4000.stream/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png",🅺✚ LIFE 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/i8ze7gf9evmypxr/kplus-klifehd.key
-
 https://kplus-livecdn.fptplay.net/drmlive/k1life_4000.stream/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",🅺✚ SPORT1 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/nmp953l4tas1p4j/kplus-ksport1hd.key
-
 https://fbox-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png",🅺✚ SPORT2 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/ocjugbw2cpf2ni2/kplus-ksport2hd.key
-
 https://kplus-livecdn.fptplay.net/drmlive/k1sport2_4000.stream/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png",🅺✚ KIDS 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/5p1wc9ksl2w92jc/kplus-kkidshd.key
-
 https://kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
+
 
