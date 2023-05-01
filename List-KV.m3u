@@ -1,44 +1,45 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/vn.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#PLAYLISTINF:LTN version="V01"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
+
 
 #-*--🔵🔴︎🔴🅺✚-*--#
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", 🅺✚ CINE 🔴
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j33096JCwhHA1N3S5y6Hw", "kid":"DShcorNYSpSWfRDExCLRkw" },{ "kty":"oct", "k":"1P4qcRMebC6xD+gFcvOQhg", "kid":"VWxcorNYSpSWfRDExCLRkw" },{ "kty":"oct", "k":"uA842vs348ceGm/VeUbRRA", "kid":"Tn2g6wJYSpSWfRDExCLRkw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/cewya2p36xsvdn2/kplus-kcinehd.key
+
 https://kplus-livecdn.fptplay.net/drmlive/k1cine_4000.stream/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png",🅺✚ LIFE 🔴
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vA8skc5TSCEodnoAcNlxUA", "kid":"rwEjpbJGTKedrNXTyFTR2Q" },{ "kty":"oct", "k":"whs2WUT1dy1IUqC9AUyE4g", "kid":"90UjpbJGTKedrNXTyFTR2Q" },{ "kty":"oct", "k":"YxpWoG+L6Lb9fU2HVpdIvA", "kid":"8FZn7gFGTKedrNXTyFTR2Q" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/i8ze7gf9evmypxr/kplus-klifehd.key
+
 https://kplus-livecdn.fptplay.net/drmlive/k1life_4000.stream/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",🅺✚ SPORT1 🔴
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/nmp953l4tas1p4j/kplus-ksport1hd.key
+
 https://fbox-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png",🅺✚ SPORT2 🔴
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/ocjugbw2cpf2ni2/kplus-ksport2hd.key
+
 https://kplus-livecdn.fptplay.net/drmlive/k1sport2_4000.stream/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png",🅺✚ KIDS 🔴
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xbjL8j424fhxzjfzLElicQ", "kid":"tQx4sxyjQdeGaMFyYJjcXg" },{ "kty":"oct", "k":"uQAzqDevCv1uv2/ZlN3QkA", "kid":"/VB4sxyjQdeGaMFyYJjcXg" },{ "kty":"oct", "k":"rmcULwJu6k+qflQVQAiriA", "kid":"9mG8/GujQdeGaMFyYJjcXg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/5p1wc9ksl2w92jc/kplus-kkidshd.key
+
 https://kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 
