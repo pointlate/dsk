@@ -79,17 +79,17 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Refere
 
 #-*--THỜI SỰ-*--#
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV
-https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
-https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", NHÂN DÂN
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+#https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", QUỐC HỘI
-https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QUỐCPHÒNG VIỆTNAM
-https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOV TV
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+#http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 
 #-*--KÊNH MẸ-*--#
 
