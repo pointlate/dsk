@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/vn.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw" list2="http://gg.gg/list-tvbabu"
+#PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw" list2="https://bit.ly/beartvplay " list3="http://gg.gg/list-tvbabu"
 
 #-*--KÊNH BA-*--#
 
@@ -13,17 +13,14 @@ https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png", VTV6 CầnThơ
 https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
 
-#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png", SPORT 
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
+#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png", SPORT
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png", SPORT1
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png", SPORT2
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
-
-#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/NNpj992/BTV5-BEARTV.png", SPORT3 
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV ThểThao
 https://code.vthanhtivi.pw/getlink/htv/4009/playlist.m3u8
@@ -73,10 +70,10 @@ http://thtg.vn:8001/stream_hi.m3u8
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png", Phim NướcNgoài
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png", Phim TổngHợp
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
 
 #-*--KÊNH MẸ-*--#
@@ -135,13 +132,13 @@ https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png", SCTV1
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png", SCTV7
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png", SCTV9
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/chunklist_b942000.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/chunklist_b942000.m3u8|Referer=http://sctvonline.vn/
 
 
 
