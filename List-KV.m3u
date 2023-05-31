@@ -4,36 +4,36 @@
 
 #EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
 
-#-*--🔵🔴︎🔴🅺✚-*--#
+#-*--🔵🔴︎🔴Ⓚ +-*--#
 
-#EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", 🅺✚ CINE 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/cewya2p36xsvdn2/kplus-kcinehd.key
-https://kplus-livecdn.fptplay.net/drmlive/k1cine_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/eupqj4qb5flttro/kplus-kcinehd.key
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", Ⓚ+CINE 🔴
+https://longpt.net/vtvcabon/k-plus-1.m3u8
 
-#EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png",🅺✚ LIFE 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/i8ze7gf9evmypxr/kplus-klifehd.key
-https://kplus-livecdn.fptplay.net/drmlive/k1life_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/aqnfkccma8bs9t6/kplus-klifehd.key
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", Ⓚ+LIFE 🔴
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
 
-#EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",🅺✚ SPORT1 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/nmp953l4tas1p4j/kplus-ksport1hd.key
-https://fbox-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/76p2ekl8788z0wt/kplus-ksport1hd.key
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo=https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", Ⓚ+SPORT-1 🔴
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
 
-#EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png",🅺✚ SPORT2 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/ocjugbw2cpf2ni2/kplus-ksport2hd.key
-https://kplus-livecdn.fptplay.net/drmlive/k1sport2_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/mwewwuc48wxwb7w/kplus-ksport2hd.key
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", Ⓚ+SPORT-2 🔴
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
 
-#EXTINF:-1 tvg-id="KCINE" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png",🅺✚ KIDS 🔴
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/5p1wc9ksl2w92jc/kplus-kkidshd.key
-https://kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4ewfrm0a5foxgma/kplus-kkidshd.key
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png", Ⓚ+KIDS 🔴
+https://longpt.net/vtvcabon/k-plus-kids.m3u8
 
 
