@@ -2,6 +2,8 @@
 
 #PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw" list2="https://bit.ly/beartvplay " list3="http://gg.gg/list-tvbabu"
 
+#EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
+
 #-*--KÊNH BA-*--#
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png", VTV3         
@@ -103,6 +105,12 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8|Referer=http://sct
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
 #https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/WzpPPzM/thuanviethd-BEARTV.png", Thuần Việt
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/K2tfJM6/HTVCPLUS-BEARTV.png", HTVC Plus
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/dQPnsWt/travinhtv-BEARTV.png", TràVinh
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
