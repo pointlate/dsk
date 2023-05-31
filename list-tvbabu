@@ -25,7 +25,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/NNpj992/BTV5-BEARTV.png", SPORT3 
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
-#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV-Thể Thao
+#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV ThểThao
 https://code.vthanhtivi.pw/getlink/htv/4009/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
@@ -37,7 +37,7 @@ https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", ĐồngTháp1
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", ĐồngTháp2 MiềnTây
+#EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", ĐồngTháp2
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/T8mqnnF/soctrang1-BEARTV.png", SócTrăng1
