@@ -689,7 +689,3 @@ http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://obj-kr.thewiki.kr/data/4542535f456e676c6973682e706e67.png", EBS E
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
-#-*--BÓNG ĐÁ-*--#
-#EXTINF:-1 group-title="BÓNG ĐÁ" tvg-logo="https://i.imgur.com/7tSAmpN.png", BÓNG ĐÁ
-https://choamphu.com/?mod=synguyen&act=SNgetLink&site=90phut&cmod=donotcache
-
