@@ -29,10 +29,12 @@ https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 https://code.vthanhtivi.pw/getlink/htv/4009/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
-https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
-https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-BA" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", ĐồngTháp1
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
@@ -98,10 +100,12 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
-https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
-https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH-MẸ" tvg-logo="https://i.ibb.co/dQPnsWt/travinhtv-BEARTV.png", TràVinh
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
