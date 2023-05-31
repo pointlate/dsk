@@ -78,6 +78,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
 #-*--THỜI SỰ-*--#
+
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png", VNews
