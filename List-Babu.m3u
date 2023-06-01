@@ -196,10 +196,10 @@ http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/127.png", Cao Bằng
 https://code.vthanhtivi.pw/getlink/mytv/141/hd.m3u8
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/128.png", ĐàN ẵng1
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/128.png", Đà Nẵng1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png", ĐàN ẵng2
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png", Đà Nẵng2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/130.png", Đắk Lắk
