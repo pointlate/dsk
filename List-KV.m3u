@@ -7,30 +7,30 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/eupqj4qb5flttro/kplus-kcinehd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", Ⓚ+CINE 🔴
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/SnNC5BR.png", Ⓚ+CINE 🔴
 https://hqth.me/K-cine_fpt
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/aqnfkccma8bs9t6/kplus-klifehd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", Ⓚ+LIFE 🔴
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/LHK6ixp.png", Ⓚ+LIFE 🔴
 https://hqth.me/k-life
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/76p2ekl8788z0wt/kplus-ksport1hd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo=https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", Ⓚ+SPORT-1 🔴
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/7VSsuRx.png", Ⓚ+SPORT-1 🔴
 https://hqth.me/k-1fpt_2023
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/mwewwuc48wxwb7w/kplus-ksport2hd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", Ⓚ+SPORT-2 🔴
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/FUOvfDM.png", Ⓚ+SPORT-2 🔴
 https://hqth.me/RaJSj
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4ewfrm0a5foxgma/kplus-kkidshd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png", Ⓚ+KIDS 🔴
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://i.imgur.com/AYihFUG.png", Ⓚ+KIDS 🔴
 https://hqth.me/k-kidsfpt
 
