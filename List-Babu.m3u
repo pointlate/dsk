@@ -88,8 +88,7 @@ http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
-http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 Cần Thơ
 #https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
