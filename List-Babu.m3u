@@ -77,15 +77,15 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 
 #https://code.vthanhtivi.pw/getlink/mytv/377/hd.m3u8
-http://live-ali4.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
+http://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3         
 #https://code.vthanhtivi.pw/getlink/mytv/211/hd.m3u8
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4        
 #https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 #https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
@@ -97,15 +97,15 @@ http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 #https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 #https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 #https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png", HTVC Phim 
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
