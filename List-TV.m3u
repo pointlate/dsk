@@ -59,7 +59,7 @@ https://hqth.me/k-life
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/76p2ekl8788z0wt/kplus-ksport1hd.key
-#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo=https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", Ⓚ+SPORT-1 🔴
+#EXTINF:-1 tvg-id="KCINE" group-title="Ⓚ +" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", Ⓚ+SPORT-1 🔴
 https://hqth.me/k-1fpt_2023
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
