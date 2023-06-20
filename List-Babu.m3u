@@ -1,4 +1,19 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz" tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.hklive.tv" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=4
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=6
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=7
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" tvg-shift=0 m3uautoload=8
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz" tvg-shift=0 m3uautoload=9
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz" tvg-shift=0 m3uautoload=10
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz" tvg-shift=0 m3uautoload=11
+#EXTM3U url-tvg="https://i.mjh.nz/au/Brisbane/epg.xml.gz" tvg-shift=0 m3uautoload=12
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz" tvg-shift=0 m3uautoload=13
 #PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw" list2="https://bit.ly/beartvplay " list3="http://gg.gg/list-babu"
 #EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
 
@@ -19,6 +34,7 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
+#https://tiemnhazunn.click/vieon/htv1.php
 https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2
@@ -353,6 +369,9 @@ https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QUỐCPHÒNG VN
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
 http://live.vthanhtivi.pw/hbo
@@ -365,13 +384,16 @@ http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
+https://hqth.me/THRILL?stream.sml/qwr9ew/s/s34/01.m3u8
 
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+https://hqth.me/BOXHITSVTHANH?foxactionmovies/210/v5live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
-
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild
 http://live.vthanhtivi.pw/ngw
@@ -380,16 +402,19 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+https://hqth.me/musicboxkiptvcliptv?channelv/212/live/chunklist_b5128000.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy Kids
+https://hqth.me/HAPPYKIDS?disney/kids/opening291/idgetlink=921002000123/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Msh0Zge.png", Aniplus
+http://live.vthanhtivi.pw/aniplus
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci HD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
-
-
-
-
-
 
