@@ -65,7 +65,6 @@ https://code.vthanhtivi.pw/getlink/mytv/167/hd.m3u8
 #https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
 
-
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", Đồng Tháp
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 
@@ -82,12 +81,12 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", Bạc Liêu
-#https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
-http://tv.thbl.vn/live/tv/tv.m3u8
-
+#http://tv.thbl.vn/live/tv/tv.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/bac-lieu-1/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/151.png", Kiên Giang
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+https://livecdn.fptplay.net/sdc/kiengiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/125.png", Cà Mau
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
