@@ -55,13 +55,16 @@ https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ
-https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+https://live.canthotv.vn/live/tv_web/chunklist_w876738067.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/113.png", Bến Tre
 https://code.vthanhtivi.pw/getlink/mytv/167/hd.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/171.png", Sóc Trăng
-https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
+
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", Đồng Tháp
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
@@ -79,7 +82,9 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", Bạc Liêu
-https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+http://tv.thbl.vn/live/tv/tv.m3u8
+
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/151.png", Kiên Giang
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -417,4 +422,3 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
-
