@@ -32,11 +32,13 @@ https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
 #https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
-https://hqth.me/htv7kiptvvieon?getlink81/livetv.sml/vieon/play.m3u8
+#https://hqth.me/htv7kiptvvieon?getlink81/livetv.sml/vieon/play.m3u8
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/c709809c25fe5725aec654c60120a2ed/1688105969684/livetv/60efe6198ce953ae1411fb164e334367/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
 #https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
-https://hqth.me/htv9kiptvvieon?getlink13/livetv.sml/vieon/play.m3u8
+#https://hqth.me/htv9kiptvvieon?getlink13/livetv.sml/vieon/play.m3u8
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/5c2d8c49e395e000696b5cbda9864bf4/1688105847678/livetv/6d8dfd97165650a8935c57262d9be67f/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ
 #https://live.canthotv.vn/live/tv_web/chunklist_w876738067.m3u8
