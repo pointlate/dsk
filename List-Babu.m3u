@@ -19,19 +19,17 @@
 
 #-*--KÊNH ĐỊA PHƯƠNG-*--#
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", Vĩnh Long1
-#http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
-https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtYWJyIiwiZXhwIjoxNjg3OTQ2MzAxfQ.d_iLue0cIvx7eHgu-hErmHJkZTp7EJ53LwpFZtRIn_Q-/thvl1-abr/thvl111220/thvl1-480p/chunks.m3u8
+http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", Vĩnh Long2
-#http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
-https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItYWJyIiwiZXhwIjoxNjg3OTQ3MDgxfQ.UsmEobIDbY46aTqq3YptmsM55nSP5Ck4P2tIBFDEdPk-/thvl2-abr/thvl111220/thvl2-480p/chunks.m3u8
+http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long3
-#http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
-https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDMtYWJyIiwiZXhwIjoxNjg3OTQ3MjU2fQ.oaDTJKyakR7jJjoXhr7zoMAv0jVB81uyHK5q09tYTqY-/thvl3-abr/thvl111220/thvl3-480p/chunks.m3u8
+http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long4
 #http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
-https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtYWJyIiwiZXhwIjoxNjg3OTQ3MzM0fQ.ugrDnPVxd0XGx-L0lwSErDrzZr1BcIU-omEO1x9ZErk-/thvl4-abr/thvl111220/thvl4-480p/chunks.m3u8
+
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
 https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 
