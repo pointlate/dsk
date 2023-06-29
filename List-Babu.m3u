@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
 #PLAYLISTINF:LTN version="V01" 
-list1="https://playlist.vthanhtivi.pw" 
-list2="https://bit.ly/beartvplay" 
+list1="https://s.id/thanhtivi" 
+list2="https://s.id/bearTV" 
 list3="https://s.id/luongtamlong"
-list4="http://gg.gg/list-babu"
+list4="https://s.id/list-babu"
 #EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - luongtamlong - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
 
 #-*--KÊNH ĐỊA PHƯƠNG-*--#
