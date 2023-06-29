@@ -31,10 +31,12 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
-https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
+https://hqth.me/htv7kiptvvieon?getlink81/livetv.sml/vieon/play.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
-https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
+https://hqth.me/htv9kiptvvieon?getlink13/livetv.sml/vieon/play.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ
 #https://live.canthotv.vn/live/tv_web/chunklist_w876738067.m3u8
@@ -310,7 +312,8 @@ http://103.90.220.236/qrtvlive/tv1live.m3u8
 http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/174.png", Tây Ninh
-https://code.vthanhtivi.pw/getlink/vieon/tay-ninh-3/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/vieon/tay-ninh-3/playlist.m3u8
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/175.png", Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
