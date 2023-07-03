@@ -425,3 +425,5 @@ http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png", Dreamwork Asia
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7tSAmpN.png", Bóng Đá
+https://choamphu.com/?mod=synguyen&act=SNgetLink&site=90phut
