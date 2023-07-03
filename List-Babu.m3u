@@ -379,10 +379,12 @@ https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 #http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 http://210.210.155.35/session/97b8dc62-1633-11ee-a768-8a14ae5b5955/qwr9ew/s/s34/01.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+https://hqth.me/intheboxkiptvcliptv?fox.sml/id=20/91772881921/live/tv/playlist/chunklist_b5128000.m3u8
+
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie¹
 #https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
-#https://hqth.me/intheboxkiptvcliptv?fox.sml/id=20/91772881921/live/tv/playlist/chunklist_b5128000.m3u8
 http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
