@@ -370,10 +370,14 @@ http://live.vthanhtivi.pw/hbo/index.m3u8
 http://live.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
+http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX
 https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
+http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
 #https://hqth.me/THRILL?stream.sml/qwr9ew/s/s34/01.m3u8
 #http://210.210.155.35/qwr9ew/s/s34/index.m3u8
