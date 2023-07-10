@@ -190,7 +190,8 @@ https://sg.tinchuanchuaanh.com/SCTV9/index.m3u8
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/110.png", Bắc Ninh
-https://code.vthanhtivi.pw/getlink/mytv/360/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/360/hd.m3u8
+http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", Bắc Giang
 http://103.90.220.236/bgtvlive/tv1live.m3u8
