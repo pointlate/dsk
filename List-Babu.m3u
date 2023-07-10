@@ -91,10 +91,10 @@ http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4   
 #https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@720p.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/vieon/vtv5-hd/playlist.m3u8
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 Cần Thơ
@@ -103,15 +103,15 @@ http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 #https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@720p.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 #https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@720p.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 #https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@720p.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png", HTVC Phim
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
