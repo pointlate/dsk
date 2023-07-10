@@ -197,7 +197,7 @@ http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 http://103.90.220.236/bgtvlive/tv1live.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", Bình Dương1
-https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-1/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png", Bình Dương2
 https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-2/chunklist_b2500000.m3u8
