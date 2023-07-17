@@ -1,0 +1,80 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml," tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#PLAYLISTINF:LTN version="V01" list1="https://playlist.hqth.xyz" list2="https://bit.ly/beartvplay " list3="http://gg.gg/list-babu"
+#EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
+#Update: 17/07/2023
+
+#-*--KÊNH ĐỊA PHƯƠNG-*--#
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
+http://live.hqth.xyz/hbo/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
+http://live.hqth.xyz/cinemax/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
+http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
+http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX
+https://fbvip88.com/fptplay/getfpt.php?id=kix
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
+http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
+http://210.210.155.35/session/97b8dc62-1633-11ee-a768-8a14ae5b5955/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie¹
+#https://code.hqth.xyz/getlink/cliptv/822/chunklist_b5128000.m3u8
+http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+https://code.hqth.xyz/getlink/mytv/105/hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild
+http://live.vthanhtivi.pw/ngw
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
+http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+https://code.hqth.xyz/getlink/mytv/69/hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy Kids
+https://code.hqth.xyz/getlink/tv360/212/2.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
+http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Msh0Zge.png", Aniplus
+http://live.hqth.xyz/aniplus
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci
+https://code.hqth.xyz/getlink/mytv/294/hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang
+http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
+http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/wOcQHPH.png", Dreamworks
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+
+
