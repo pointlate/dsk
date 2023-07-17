@@ -272,6 +272,9 @@ https://code.hqth.xyz/getlink/mytv/159/hd.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/160.png", Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png", Huế
+https://code.hqth.xyz/getlink/tv360/63/2.m3u8
+
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/149.png", Hưng Yên
 http://103.90.220.236/hytvlive/tv1live.m3u8
 
@@ -341,9 +344,6 @@ http://103.90.220.236/tntvlive/tv1live.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/178.png", Thanh Hóa
 https://code.hqth.xyz/getlink/mytv/477/hd.m3u8
-
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png", Huế
-https://code.hqth.xyz/getlink/tv360/63/2.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang
 https://code.hqth.xyz/getlink/tv360/92/2.m3u8
