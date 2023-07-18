@@ -340,10 +340,10 @@ http://103.90.220.236/tbtvlive/tv1live.m3u8
 http://103.90.220.236/tntvlive/tv1live.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/178.png", Thanh Hóa
-https://code.vthanhtivi.pw/getlink/mytv/477/hd.m3u8
+https://code.hqth.xyz/getlink/mytv/477/hd.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png", Thừa Thiên Huế
-https://code.vthanhtivi.pw/getlink/tv360/63/2.m3u8
+https://code.hqth.xyz/getlink/tv360/63/2.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang
 https://code.hqth.xyz/getlink/tv360/92/2.m3u8
@@ -450,8 +450,7 @@ https://code.hqth.xyz/getlink/mytv/294/hd.m3u8
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/wOcQHPH.png", Dreamworks
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-
 
 
