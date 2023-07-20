@@ -446,7 +446,8 @@ http://103.112.191.9:880/LAOSAT10940.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 #http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
-http://103.112.191.9:880/LAOSAT1095.m3u8
+#http://103.112.191.9:880/LAOSAT1095.m3u8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=571181
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
 http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
@@ -458,6 +459,8 @@ https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #https://tiemnhazunn.click/tv360/tv360.php?id=212
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/oyAaYim.png", Anime TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w396061502.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Msh0Zge.png", Aniplus
@@ -474,9 +477,6 @@ http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://sck.pm/gl9u", TG Junior Kids
 https://stream.ads.ottera.tv/cl/230720cisklofau86lgtsjfvc0/1280x720_3071200_0_f.m3u8
 
-https://stream.ads.ottera.tv/cl/230720cisl5g5djdcr97qiun30/1280x720_2300000_0_f.m3u8
-
-https://stmv1.srvif.com/animetv/animetv/chunklist_w396061502.m3u8
 
 
 
