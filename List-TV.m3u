@@ -233,7 +233,7 @@ http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/35/2.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", Bà Rịa Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", TH Bắc Giang
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", Bắc Giang
 http://103.90.220.236/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/110.png", Bắc Ninh
 https://code.vthanhtivi.pw/getlink/mytv/360/hd.m3u8
@@ -283,7 +283,7 @@ https://code.vthanhtivi.pw/getlink/fptplay/dien-bien/chunklist_b2500000.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/134.png", Đồng Nai2
 https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/135.png", Đồng Nai
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/135.png", Đồng Nai3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", Đồng Tháp
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
@@ -361,7 +361,7 @@ https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
 #http://live.hqth.xyz/stv2
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/173.png", Sơn La
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/174.png", TH Tây Ninh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/174.png", Tây Ninh
 https://code.vthanhtivi.pw/getlink/vieon/tay-ninh-3/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/175.png", Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
@@ -375,7 +375,7 @@ https://code.vthanhtivi.pw/getlink/tv360/63/2.m3u8
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
 https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/97.png", Trà Vinh
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/97.png", Trà Vinh2
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png"", Tuyên Quang
 https://code.vthanhtivi.pw/getlink/tv360/92/2.m3u8
