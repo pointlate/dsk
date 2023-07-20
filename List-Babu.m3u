@@ -459,7 +459,7 @@ http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 #http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
 http://103.112.191.9:880/LAOSAT1090.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/wOcQHPH.png", Dreamworks
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 
 
