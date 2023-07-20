@@ -460,10 +460,8 @@ http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 #EXTINF:-1 group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 #EXTINF:-1 group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.hqth.xyz/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZua6NlapKhlsKZmqqWlqOfkZ9lXmJqZg==&time=1689837023&mytv_msky&id=595
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
