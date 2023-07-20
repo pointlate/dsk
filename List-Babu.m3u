@@ -183,7 +183,8 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab10-on-cine/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 Phim Bộ TVB
 #https://inet.tinchuanchuaanh.com/hls/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
-https://sg.tinchuanchuaanh.com/SCTV9/index.m3u8
+#https://sg.tinchuanchuaanh.com/SCTV9/index.m3u8
+http://115.73.183.12:8080/sctv/s9/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", BàRịa VũngTàu
 #http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
