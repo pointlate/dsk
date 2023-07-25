@@ -33,13 +33,11 @@ https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
 #https://tiemnhazunn.click/vieon/htv7.php
-#https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
-https://livecdn-vthcm-vnw.vieon.vn/livetv/60efe6198ce953ae1411fb164e334367/playlist.m3u8?height=480&codec=avc
+https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
 #https://tiemnhazunn.click/vieon/htv9.php
-#https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
-https://livecdn-vthcm-vnw.vieon.vn/livetv/6d8dfd97165650a8935c57262d9be67f/playlist.m3u8?height=480&codec=avc
+https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ
 #https://live.canthotv.vn/live/tv/chunklist.m3u8
