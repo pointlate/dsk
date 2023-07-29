@@ -413,8 +413,8 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/9268.ts
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
 #http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-#http://66.181.39.224/ml.php?id=Thrill
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+http://66.181.39.224/ml.php?id=Thrill
 
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
@@ -437,7 +437,7 @@ http://live.vthanhtivi.pw/ngw
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 #http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
-http://103.112.191.9:880/LAOSAT10940.m3u8
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 #http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
