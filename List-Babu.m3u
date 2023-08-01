@@ -337,6 +337,9 @@ http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 #https://code.vthanhtivi.pw/getlink/vieon/tay-ninh-3/playlist.m3u8
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", TV360 Cửu Long
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/175.png", Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
 
