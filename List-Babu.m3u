@@ -409,14 +409,14 @@ https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/bep/id/c
 https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/fpt/id/kix
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
-#http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 #https://error.tv4.live/e01.mp4
-http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/9268.ts
+#http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/9268.ts
+https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/bep/id/warnertv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 #http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
