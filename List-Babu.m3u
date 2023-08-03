@@ -478,6 +478,8 @@ https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vthanh/s
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/U4t80gj.png", Bóng Đá
+https://wikiany.net/?mod=synguyen&act=SNgetLink&site=90phut&cmod=donotcache
 
 
 
