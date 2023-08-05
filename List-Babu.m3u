@@ -409,7 +409,7 @@ http://live.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 #http://sg.tinchuanchuaanh.com:8080/AXN_HD/tracks-v1a1/mono.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vthanh/sv/2/id/AXN_HD
+https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/vthanh/sv/2/id/AXN_HD
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 #http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
@@ -426,12 +426,12 @@ https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/fpt/id/k
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
 #https://error.tv4.live/e01.mp4
 #http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/9268.ts
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/bep/id/warnertv
+https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/bep/id/warnertv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+https://error.tv4.live/e01.mp4
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 #http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
