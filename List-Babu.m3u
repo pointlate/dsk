@@ -392,7 +392,8 @@ http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QUỐCPHÒNG VN
 #http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
-https://code.vthanhtivi.pw/getlink/mytv/227/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/227/hd.m3u8
+https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/vieon/id/quoc-phong-hd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
