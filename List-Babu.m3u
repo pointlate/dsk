@@ -404,16 +404,12 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/xAAazXG.png",B4TV Tổng hợp
 http://103.172.78.51:80/b4tv/b4tv/5.ts
-
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ibjV7uy.png",B4TV Thể thao
 http://103.172.78.51:80/b4tv/b4tv/1.ts
-
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5bFS9GN.png",B4TV Phim
 http://103.172.78.51:80/b4tv/b4tv/2.ts
-
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Itp3xjN.png",B4TV Sự kiện
 http://103.172.78.51:80/b4tv/b4tv/3.ts
-
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/N3SkslE.png",B4TV Cuộc sống
 http://103.172.78.51:80/b4tv/b4tv/4.ts
 
