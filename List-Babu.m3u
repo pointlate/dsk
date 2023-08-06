@@ -121,61 +121,61 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/mytv/id/18
 https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png", VTC1
-#https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc1-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc1-hd/xemlai/${start}-${offset}", VTC1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc1-hd
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7WwzKSj/VTC2-BEARTV.png", VTC2
-#https://code.vthanhtivi.pw/getlink/mytv/20/high.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc2-reidius-tv
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/tv360/id/196/xemlai/${start}-${offset}", VTC2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc2-reidius-tv
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/X2dbCDb/VTC3-BEARTV.png", VTC3
-#https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc3-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc3-hd/xemlai/${start}-${offset}", VTC3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc3-hd
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/v4Hrc3p/VTC4-BEARTV.png", VTC4
-#https://code.vthanhtivi.pw/getlink/mytv/396/hd.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc4-yeah1-family-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/tv360/id/198/xemlai/${start}-${offset}", VTC4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc4-yeah1-family-hd
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg", VTC5
-#https://code.vthanhtivi.pw/getlink/mytv/397/hd.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc5-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc5-hd/xemlai/${start}-${offset}", VTC5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc5-hd
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jHzdRKS/VTC6-BEARTV.png", VTC6
-#https://code.vthanhtivi.pw/getlink/mytv/22/high.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc6
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/tv360/id/200/xemlai/${start}-${offset}", VTC6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc6
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png", VTC7 todayTV
-#https://code.vthanhtivi.pw/getlink/mytv/398/hd.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc7-todaytv-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc7-todaytv-hd/xemlai/${start}-${offset}", VTC7 - TodayTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc7-todaytv-hd
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8DTV4TY/VTC8-BEARTV.jpg", VTC8
-#https://code.vthanhtivi.pw/getlink/mytv/24/high.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc8/xemlai/${start}-${offset}", VTC8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc8
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/60nyjgj/VTC9-BEARTV.png", VTC9
-#https://code.vthanhtivi.pw/getlink/mytv/399/hd.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc9-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc9-hd/xemlai/${start}-${offset}", VTC9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc9-hd
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qdFVPyW/VTC10-BEARTV.png", VTC10
-#https://code.vthanhtivi.pw/getlink/mytv/29/hd.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc10-1
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc10-1/xemlai/${start}-${offset}", VTC10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc10-1
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ySrQw6C/VTC11-BEARTV.png", VTC11
-#https://code.vthanhtivi.pw/getlink/mytv/30/high.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc11-kids-tv
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc11-kids-tv/xemlai/${start}-${offset}", VTC11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc11-kids-tv
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L8KFv8g/VTC12-BEARTV.jpg", VTC12
-#https://code.vthanhtivi.pw/getlink/mytv/463/high.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc12
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc12
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fSHncwL/VTC14-BEARTV.png", VTC14
-#https://code.vthanhtivi.pw/getlink/mytv/32/hd.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc14-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc14-hd/xemlai/${start}-${offset}", VTC14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc14-hd
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/WfHrTR3/VTC16-BEARTV.jpg", VTC16
-#http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
-https://synguyen.net/api/token/449226a28a95cc873a07a5087255b1ed/getlink/vieon/id/vtc16-hd
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup-type="default" catchup-days="2" catchup-source="https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc16-hd/xemlai/${start}-${offset}", VTC16
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://synguyen.net/api/token/2849a9cf12e27a9ac9cf92eacc857e71/getlink/vieon/id/vtc16-hd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", VTVcab10 ONCine
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab10-on-cine/playlist.m3u8
