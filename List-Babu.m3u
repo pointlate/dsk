@@ -413,10 +413,10 @@ http://synguyen.xyz/api/token/b632b649ee745a7797d43500078766c8/getlink/fpt/id/ki
 #https://error.tv4.live/e01.mp4
 http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSF8SzVhTC7MjqjGwRewDhHD4/ts
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
-https://error.tv4.live/e01.mp4
+#https://error.tv4.live/e01.mp4
+#http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683154&extension=ts
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=683154
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
