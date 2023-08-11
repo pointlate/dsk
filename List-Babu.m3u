@@ -54,7 +54,8 @@ https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/158.png", Long An
-http://103.90.220.236/la34/tvlive-transmux.m3u8
+#http://103.90.220.236/la34/tvlive-transmux.m3u8
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png", Tiền Giang
 #http://thtg.vn:8001/stream_hi.m3u8
