@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw/" list2="https://bit.ly/beartvplay" list3="http://synguyen.xyz/sntv/tv/iptv" list4="http://gg.gg/list-babu"
 #EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
-#Update: 10/08/2023
+#Update: 10/09/2023
 
 #-*--KÊNH ĐỊA PHƯƠNG-*--#
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", Vĩnh Long1
@@ -374,16 +374,30 @@ http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 #https://error.tv4.live/e01.mp4
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/xAAazXG.png",B4TV Tổng Hợp
-http://103.172.78.51:80/b4tv/b4tv/5.ts
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ibjV7uy.png",B4TV Thể Thao
-http://103.172.78.51:80/b4tv/b4tv/1.ts
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5bFS9GN.png",B4TV Phim
-http://103.172.78.51:80/b4tv/b4tv/2.ts
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Itp3xjN.png",B4TV Sự Kiện
-http://103.172.78.51:80/b4tv/b4tv/3.ts
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/N3SkslE.png",B4TV Cuộc Sống
-http://103.172.78.51:80/b4tv/b4tv/4.ts
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/1.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/84.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/85.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/3.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 2
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/47.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/48.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 1
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/86.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
+#https://error.tv4.live/e01.mp4
+http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
 #https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/bep/id/hbo
@@ -414,8 +428,8 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571196&extension=ts
 http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSF8SzVhTC7MjqjGwRewDhHD4/ts
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
-#https://error.tv4.live/e01.mp4
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=683154
+#http://198.16.100.90:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
+http://210.210.155.35/session/427ce16a-4dcb-11ee-8a82-9707b319759e/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
@@ -459,7 +473,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w396061502.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
 http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Msh0Zge.png", Aniplus
-http://live.vthanhtivi.pw/aniplus
+#http://live.vthanhtivi.pw/aniplus
 https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/vthanh/sv/1/id/aniplus
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci
 https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
@@ -469,3 +483,6 @@ http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
 http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+
+
+
