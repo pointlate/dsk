@@ -492,7 +492,10 @@ https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/oyAaYim.png", Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w396061502.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
-http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
+
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Msh0Zge.png", Aniplus
 #http://live.vthanhtivi.pw/aniplus
 https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/vthanh/sv/1/id/aniplus
