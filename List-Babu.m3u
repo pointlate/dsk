@@ -478,8 +478,8 @@ https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
 https://liveott.msky.vn/live_dzones/dscasia.smil/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
-#https://error.tv4.live/e01.mp4
-http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+http://b8cd878a.edmonst.net/iptv/W7VTKMR8TMMME5/12096/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #https://error.tv4.live/e01.mp4
