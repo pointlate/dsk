@@ -497,8 +497,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w396061502.m3u8
 https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Msh0Zge.png", Aniplus
-#http://live.vthanhtivi.pw/aniplus
-https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/vthanh/sv/1/id/aniplus
+http://live.vthanhtivi.pw/aniplus
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci
 https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang
