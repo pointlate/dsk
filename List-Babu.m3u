@@ -457,9 +457,9 @@ http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 #https://error.tv4.live/e01.mp4
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild
-#http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
-http://198.16.100.90:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
+#http://198.16.100.90:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
+https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
