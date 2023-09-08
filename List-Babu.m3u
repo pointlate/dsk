@@ -411,7 +411,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
 #https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/tvmienphi/id/cinemax
-http://live.vthanhtivi.pw/cinemax
+#http://live.vthanhtivi.pw/cinemax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
