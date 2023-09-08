@@ -401,7 +401,7 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
 #https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/bep/id/hbo
-http://live.vthanhtivi.pw/hbo
+http://live-vnp.vthanhtivi.pw:18001/HBO/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
 #https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/tvmienphi/id/cinemax
@@ -448,7 +448,7 @@ http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild
 #http://live.vthanhtivi.pw/ngw
-http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSFw3fPFRJJeAWUywbOsG2Q5I/ts
+http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 #http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
