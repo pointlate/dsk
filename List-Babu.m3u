@@ -412,7 +412,10 @@ http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 #http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
-http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSF-ygZQ1JOlnqFCmpWLPjS7Y/ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxpZpifl8KZmqqWlqOfkZ9jXmFraQ==&time=1694173604&vieon&id=dmax
+https://livecdn-vthn-vnw.vieon.vn/qnet/live_dzones/dmax.smil/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 #http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
