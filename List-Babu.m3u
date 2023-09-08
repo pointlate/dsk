@@ -419,7 +419,10 @@ https://livecdn-vthn-vnw.vieon.vn/qnet/live_dzones/dmax.smil/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 #http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
-http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSFyUqGXGVU3_9RuCbXWDHsU4/ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxpZpifl8KZmqqWlqOfkZ9jXmFraQ==&time=1694173604&vieon&id=cinema-world
+https://liveott.msky.vn/live_dzones/cinemaworld.smil/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX
 #https://error.tv4.live/e01.mp4
@@ -428,14 +431,21 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571196&extension=ts
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
 #https://error.tv4.live/e01.mp4
-http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSF8SzVhTC7MjqjGwRewDhHD4/ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxpZpifl8KZmqqWlqOfkZ9jXmFraQ==&time=1694173604&vieon&id=warner-tv
+https://liveott.msky.vn/live_dzones/wtv.smil/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
 #http://198.16.100.90:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
 http://210.210.155.35/session/427ce16a-4dcb-11ee-8a82-9707b319759e/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/IN_THE_BOX/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxpZpifl8KZmqqWlqOfkZ9jXmFraQ==&time=1694173604&tv360&id=235
+http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie¹
 #http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
@@ -443,11 +453,14 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sc
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 #https://error.tv4.live/e01.mp4
-http://live-vnp.vthanhtivi.pw:18001/BOX_HITS/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxpZpifl8KZmqqWlqOfkZ9jXmFraQ==&time=1694173604&tv360&id=239
+http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-#https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
-http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
+#https://error.tv4.live/e01.mp4
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild
 #http://live.vthanhtivi.pw/ngw
@@ -490,7 +503,11 @@ http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6NjZpKhmsKZnaKamqKdlKJqXmJoZQ==&time=1691813027&vieon&id=dreamworks-1
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
 
 
