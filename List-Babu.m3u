@@ -400,8 +400,6 @@ http://b4tv.live/b4tv/b4tv/86.m3u8
 http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
-#https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/bep/id/hbo
-#https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
