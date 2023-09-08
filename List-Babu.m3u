@@ -451,10 +451,15 @@ http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
 http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSFw3fPFRJJeAWUywbOsG2Q5I/ts
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
+#http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
+https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
-http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSF2G6OMHqXp5zfduWpM7myMo/ts
+#http://103.172.78.51/play/QvMAfkn2_pfPVU7Uf7RSF2G6OMHqXp5zfduWpM7myMo/ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxpZpifl8KZmqqWlqOfkZ9jXmFraQ==&time=1694173604&vieon&id=discovery-asia
+https://liveott.msky.vn/live_dzones/dscasia.smil/manifest.mpd
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
 #https://error.tv4.live/e01.mp4
