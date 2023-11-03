@@ -120,8 +120,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV ThểThao
-#https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/mytv/id/18
-https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/htv-the-thao/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
