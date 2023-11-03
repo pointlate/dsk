@@ -47,8 +47,8 @@ https://live.canthotv.vn/live/tv_web/chunklist_w876738067.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/PhHTMkj2NrE_4uR1e-C5og/1699003193/40/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/171.png", Sóc Trăng
-#https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
-http://vthanhtivi.pw:5000/stv1/index.m3u8
+#http://vthanhtivi.pw:5000/stv1/index.m3u8
+http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", Đồng Tháp
 #https://code.vthanhtivi.pw/getlink/fptplay/d2Y96dPQ2LVnw-ox1vLMtw/1699003193/dong-thap/chunklist_b5000000.m3u8
@@ -59,8 +59,8 @@ http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png", Tiền Giang
-#http://thtg.vn:8001/stream_hi.m3u8
-http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+#http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+http://thtg.vn:8001/stream_hi.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png", Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
@@ -197,11 +197,11 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/122.png", Bình Phước1
 #http://103.90.220.236/bptvlive/tv1live.m3u8
-https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/vieon/id/binh-phuoc-1
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/123.png", Bình Phước2
 #http://103.90.220.236/bptvlive/tv2live.m3u8
-https://synguyen.net/api/token/d6918c05079bf09cadd3ef349e577a7e/getlink/vieon/id/binh-phuoc-2
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png", Bình Thuận
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
