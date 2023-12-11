@@ -55,8 +55,8 @@ https://1012163901.vnns.net/bentre.adm.480p.tms/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/mi/wDekt-jv_vmYfBW4Pimhtw/1702312551/52/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", Đồng Tháp
-#http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
-https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w231972584.m3u8
+#https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w231972584.m3u8
+http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/158.png", Long An
 https://live.la34.com.vn/live/mediatech-transmux.m3u8
