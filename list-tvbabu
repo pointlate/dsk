@@ -123,8 +123,6 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
 https://1117560646.vnns.net/VTC2/livevtcnow/VTC2_720p/chunks.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png",VTC3 HD
 https://1117560646.vnns.net/VTC3/livevtcnow/VTC3_720p/chunks.m3u8
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png",VTC4 HD
-https://1117560646.vnns.net/VTC4/livevtcnow/VTC4_720p/chunks.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png",VTC5 HD
 https://1117560646.vnns.net/VTC5/livevtcnow/VTC5_720p/chunks.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png", VTC6 HD
@@ -139,8 +137,6 @@ https://1117560646.vnns.net/VTC9/livevtcnow/VTC9_720p/chunks.m3u8
 https://1117560646.vnns.net/VTC10/livevtcnow/VTC10_720p/chunks.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png", VTC11 HD
 https://1117560646.vnns.net/VTC11/livevtcnow/VTC11_720p/chunks.m3u8
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png",VTC12 HD
-https://1117560646.vnns.net/VTC12/livevtcnow/VTC12_720p/chunks.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png",VTC14 HD
 https://1117560646.vnns.net/VTC14/livevtcnow/VTC14_720p/chunks.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png",VTC16 HD
@@ -393,17 +389,11 @@ http://b4tv.live:80/b4tv/b4tv/76.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
 http://vthanhtivi.pw:5000/hbo/index.m3u8
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
-
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 http://vthanhtivi.pw:5000/axn/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 https://error.tv4.live/e01.mp4
-
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-http://210.210.155.35/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX
 #https://error.tv4.live/e01.mp4
@@ -480,8 +470,3 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
 #http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-
-
-
-
-
