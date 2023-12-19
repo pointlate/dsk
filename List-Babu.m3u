@@ -432,8 +432,11 @@ http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
-https://error.tv4.live/e01.mp4
+#EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/yUa1cMU.png", TVN Asia
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/YzjOuDn.png", TVN Movies
+http://210.210.155.37/session/598ab8d4-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h21/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #https://error.tv4.live/e01.mp4
