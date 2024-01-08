@@ -8,19 +8,19 @@ list5="http://gg.gg/list-babu"
 #-*--LIST-*--#
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", Vĩnh Long1
-#https://code.vthanhtivi.pw/getlink/vieon/thvl1-hd/playlist.m3u8
+#https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=25
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", Vĩnh Long2
-#https://code.vthanhtivi.pw/getlink/vieon/thvl2-hd/playlist.m3u8
+#https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=26
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long3
-#https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8
+#https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=219
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long4
-#https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
+#https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=220
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl4/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
