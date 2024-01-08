@@ -9,19 +9,19 @@ list5="http://gg.gg/list-babu"
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", Vĩnh Long1
 #https://code.vthanhtivi.pw/getlink/vieon/thvl1-hd/playlist.m3u8
-https://cdnlive.khanggtivi.xyz/v2/tv360/cbM5_gxyLyg0pQdeyoO0FgHc-QJbGdQk5k-wHb90o8V6BwU/1703916581/chunklist.m3u8?vstv=25
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", Vĩnh Long2
 #https://code.vthanhtivi.pw/getlink/vieon/thvl2-hd/playlist.m3u8
-https://cdnlive.khanggtivi.xyz/v2/tv360/cbM5_gxyLyg0pQdeyoO0FgHc-QJbGdQk5k-wHb90o8V6BwU/1703916581/chunklist.m3u8?vstv=26
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long3
 #https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8
-https://cdnlive.khanggtivi.xyz/v2/tv360/cbM5_gxyLyg0pQdeyoO0FgHc-QJbGdQk5k-wHb90o8V6BwU/1703916581/chunklist.m3u8?vstv=219
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long4
 #https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
-https://cdnlive.khanggtivi.xyz/v2/tv360/cbM5_gxyLyg0pQdeyoO0FgHc-QJbGdQk5k-wHb90o8V6BwU/1703916581/chunklist.m3u8?vstv=220
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl4/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
 https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
@@ -39,12 +39,12 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
-#https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
-https://code.vthanhtivi.pw/getlink/htv/256/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/htv/256/playlist.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
 #https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
-https://cdnlive.khanggtivi.xyz/v2/tv360/cbM5_gxyLyg0pQdeyoO0FgHc-QJbGdQk5k-wHb90o8V6BwU/1703916581/chunklist.m3u8?vstv=194
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ
 #https://code.vthanhtivi.pw/getlink/mytv/141/hd.m3u8
