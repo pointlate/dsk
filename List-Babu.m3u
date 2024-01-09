@@ -17,11 +17,11 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvon
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long3
 #https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=219
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl3/index.m3u8|Referer=http://sctvonline.vn/
+https://code.antmediatv.xyz/getplay/2192b645d3709f880613024a6550ddaff01c95ee363816c41efe0f63da14cdb2c4/tv360/219/2.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long4
 #https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=220
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl4/index.m3u8|Referer=http://sctvonline.vn/
+https://code.antmediatv.xyz/getplay/2192b645d3709f880613024a6550ddaff01c95ee363816c41efe0f63da14cdb2c4/tv360/220/2.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
 https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
