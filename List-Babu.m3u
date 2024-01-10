@@ -3,7 +3,7 @@
 #PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw/" list2="https://bit.ly/beartvplay" list3="https://www.antmediatv.xyz/" list4="https://www.khanggtivi.xyz/"
 list5="http://gg.gg/list-babu"
 #EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
-#Update: 08/01/2024
+#Update: 10/01/2024
 
 #-*--LIST-*--#
 
@@ -17,11 +17,11 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvon
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long3
 #https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=219
-https://code.antmediatv.xyz/getplay/2192b645d3709f880613024a6550ddaff01c95ee363816c41efe0f63da14cdb2c4/tv360/219/2.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/chunklist.m3u8?vstv=219
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long4
 #https://ott3.khanggtivi.xyz/live/channel/tv360/225A0TijfYt7O_Ai18rpFnJYqO2ub-mj1K45aNBqBEEOxNk/1704582000/chunklist.m3u8?vstv=220
-https://code.antmediatv.xyz/getplay/2192b645d3709f880613024a6550ddaff01c95ee363816c41efe0f63da14cdb2c4/tv360/220/2.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/chunklist.m3u8?vstv=220
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
 https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
@@ -101,7 +101,8 @@ https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 CầnThơ
 #https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8|Referer=http://sctvonline.vn/
-https://code.vthanhtivi.pw/getlink/tv360/RdA4hLiz99qvxni-yJAURw/1702964320/98/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/chunklist.m3u8?vstv=98
+
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=http://sctvonline.vn/
