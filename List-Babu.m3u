@@ -71,7 +71,7 @@ http://thtg.vn:8001/stream_hi.m3u8
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png", An Giang
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
+http://ott3.nethubtv.vn/live/angiangtv/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
@@ -80,7 +80,7 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/125.png", Cà Mau
-https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1        
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
