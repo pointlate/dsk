@@ -330,16 +330,16 @@ https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/178.png", Thanh Hóa
-https://code.vthanhtivi.pw/getlink/mytv/477/hd.m3u8
+https://ott3.khanggtivi.xyz/source/171-243-49-23/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/1711724130/fptplay/thanh-hoa.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png", Thừa Thiên Huế
-https://code.vthanhtivi.pw/getlink/tv360/jMwx7_m7DgEczpfIGcc3_Q/1702039699/63/playlist.m3u8
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang
-https://code.vthanhtivi.pw/getlink/tv360/w0BdqScnI9F6q3rOQGMiXA/1702039699/92/playlist.m3u8
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/183.png", Vĩnh Phúc
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w188836389.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
@@ -363,7 +363,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QPVN
-http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996000_sleng.m3u8
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/03.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="http://b4tv.live:80/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
 #https://error.tv4.live/e01.mp4
