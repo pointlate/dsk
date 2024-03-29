@@ -171,11 +171,11 @@ https://wintv.fun/360/43/index.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/117.png", BTV9
 https://wintv.fun/360/151/index.m3u8
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/118.png", BTV4
-#https://code.vthanhtivi.pw/getlink/vieon/binh-duong-4/playlist.m3u8
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.antmediatv.xyz/111.png", HCATV1 - HiTV
+https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxREpWOVpnTFFITHNlYmowREkwblpOYWFNY1RVTUpiNk9ZWVhsK1VPZ3E5Y2hUTXpPc3lhbjNacldicW5PQXQwdEJTaTF3MWpQODRTZE43ZTV0US8zSVU9/manifest.m3u8
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/120.png", BTV6
-#https://code.vthanhtivi.pw/getlink/vieon/btv6/playlist.m3u8
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.antmediatv.xyz/112.png", HCATV2 - YouTV
+https://code.antmediatv.xyz/channel/Z29iRzdyRlZ5ZDJFMmM1RDM3Njg5YVlXSk9lRmhVSHFIcnBiVFdmb1k5bTFpN1BxVTg2b2w3WEt2WXJvWjNjOHhSVjVoM21tazZoR0JkMG1GSTFuUHVLVlFhUjZZaTU2Y2R6OC9lejNla009/manifest.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/114.png", Bình Định
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
