@@ -17,7 +17,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvon
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long3
 #https://e2.endpoint.cdn.sctvonline.vn/hls/thvl3/index.m3u8|Referer=http://sctvonline.vn/
-https://coca.dl.dropboxusercontent.com/s/ha5nuaskb15y40j9pa16p/	
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long4
 #https://e2.endpoint.cdn.sctvonline.vn/hls/thvl4/index.m3u8|Referer=http://sctvonline.vn/
