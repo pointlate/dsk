@@ -398,47 +398,44 @@ http://b4tv.live:80/b4tv/b4tv/86.m3u8
 http://b4tv.live:80/b4tv/b4tv/76.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
-http://vthanhtivi.pw:5000/hbo/index.m3u8
+http://viettel.nekocdn.xyz/HBO/index.m3u8
+
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
+http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
-http://vthanhtivi.pw:5000/axn/index.m3u8
-
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
-https://error.tv4.live/e01.mp4
+http://viettel.nekocdn.xyz/AXN/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX
 #https://error.tv4.live/e01.mp4
-#http://210.210.155.37/dr9445/h/h07/01.m3u8
-http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571196&extension=ts
+http://210.210.155.37/dr9445/h/h07/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
-https://error.tv4.live/e01.mp4
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/71094
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/p1ViddS.png", Thrill (KINH DỊ)
-#http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
-https://error.tv4.live/e01.mp4
+#http://198.16.100.90:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/60283
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://fpt.vthanhtivi.pw/In_The_Box/mpegts
+https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxSDdFQ3Z6MFQzdHpqallmYitMU2tWZlo2YklSS2dBVXVidHdCZGRFdUFKVE9WNnBvQ0FkSHhvdUhNNUM5TlZ3b0pZWCtTc0d6RmVIUGVTMEFLWWU4c3c9/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie¹
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn/
-http://fpt.vthanhtivi.pw/Box_Movie_1/mpegts
+https://ott3.khanggtivi.xyz/source/171-243-49-23/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/1711724130/tv360/159.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-http://fpt.vthanhtivi.pw/Box_Hits/mpegts
+https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxQWw4aU40WENjVjBqQXZ5Vis3bmUzWm81Ryt4OVdMVll3Y0kwa0lqaE5jUmp6aml3cWsrS3RyVkpSdzR2ZkpEeE0xM2JPUlVQUGc2dkJZSDN5aG12T0E9/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
-http://fpt.vthanhtivi.pw/Hollywood_Classics/mpegts
+https://ott3.khanggtivi.xyz/source/171-243-49-23/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/1711724130/tv360/160.m3u8
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
-#http://198.16.100.90:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
-#https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
+http://viettel.nekocdn.xyz/History/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-http://vthanhtivi.pw:5000/discovery/index.m3u8
+http://viettel.nekocdn.xyz/Discovery/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 https://ott3.khanggtivi.xyz/livetv/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/qnettv/discoveryasia/master.m3u8
@@ -459,7 +456,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sct
 #EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/oyAaYim.png", Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w396061502.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
-http://vthanhtivi.pw:5000/animax/index.m3u8
+http://viettel.nekocdn.xyz/Animax/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/Msh0Zge.png", Aniplus
 http://210.210.155.35:80/uq2663/h/h114/S4/mnf.m3u8
@@ -471,7 +468,7 @@ http://210.210.155.35:80/uq2663/h/h114/S4/mnf.m3u8
 https://error.tv4.live/e01.mp4
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
-http://vthanhtivi.pw:5000/cartoon/index.m3u8
+http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/kUpR5g4.png", My Kidz
 http://210.210.155.35:80/uq2663/h/h191/index.m3u8
