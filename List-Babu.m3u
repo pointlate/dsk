@@ -366,7 +366,8 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", NHÂN DÂN
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+#https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+https://1011154949.vnns.net/1cb701afc4714a8ee22b66f10c3f26401712352315/nhandanhd.720p.adm.tms/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", QUỐC HỘI
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
@@ -376,12 +377,16 @@ https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/03.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
 https://error.tv4.live/e01.mp4
+
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION 
 https://error.tv4.live/e01.mp4
+
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
 https://ctrl.laotv.la/live/K+Sport1/index.m3u8
+
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
+
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS 
 https://error.tv4.live/e01.mp4
 
@@ -443,6 +448,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sct
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/oyAaYim.png", Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w396061502.m3u8
+
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
 http://viettel.nekocdn.xyz/Animax/index.m3u8
 
