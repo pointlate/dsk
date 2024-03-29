@@ -20,16 +20,16 @@ https://wintv.fun/360/219/index.m3u8
 https://wintv.fun/360/220/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
+https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
 http://str1.cvtv.xyz/htv1?token=live
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2
-https://htvc271120.cdn.vnns.io/5b2cff619a8ec856c2cba59e066e73951710947701/htv2.cat.720p.tms/playlist.m3u8
+https://ott3.khanggtivi.xyz/source/171-243-49-23/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/1711724130/hlive/5860e5f6-8fb6-486d-b52e-e857ea6967ba.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3
-https://htvc271120.cdn.vnns.io/b03bd550ed3bc889aadf49458147ea281710947852/htv3.720p.nimble.tms/playlist.m3u8
+https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxRTU1YUFqaklGSDY0ZlVOdGU2ZEdoeVJta3IvVmV4cG1HNS9IWVJ2dmlBQVdoMVlUTXJUZW9nS1piQ2VoMm5XekxBTGJ4RHhlN3JrNDRsN2Mzb1FWLzQ9/manifest.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV4
 http://str1.cvtv.xyz/htv4?token=live
@@ -44,7 +44,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonl
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/113.png", Bến Tre
-https://1012163901.vnns.net/bentre.adm.480p.tms/playlist.m3u8
+https://wintv.fun/360/40/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/171.png", Sóc Trăng
 https://lms-vnetwork-vtv.swiftfederation.com/soctrangtv/soctrangtv-720p.m3u8
