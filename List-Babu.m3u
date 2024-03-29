@@ -23,31 +23,29 @@ https://wintv.fun/360/219/index.m3u8
 #https://e2.endpoint.cdn.sctvonline.vn/hls/thvl4/index.m3u8|Referer=http://sctvonline.vn/
 https://wintv.fun/360/220/index.m3u8
 
+
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
-https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
-https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
+http://str1.cvtv.xyz/htv1?token=live
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+https://htvc271120.cdn.vnns.io/5b2cff619a8ec856c2cba59e066e73951710947701/htv2.cat.720p.tms/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+https://htvc271120.cdn.vnns.io/b03bd550ed3bc889aadf49458147ea281710947852/htv3.720p.nimble.tms/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV4
-https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
+http://str1.cvtv.xyz/htv4?token=live
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
-#https://code.vthanhtivi.pw/getlink/htv/256/playlist.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
-#https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ
-#https://code.vthanhtivi.pw/getlink/mytv/141/hd.m3u8
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/113.png", Bến Tre
