@@ -26,10 +26,12 @@ https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 http://str1.cvtv.xyz/htv1?token=live
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2
-https://ott3.khanggtivi.xyz/source/171-243-49-23/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/1711724130/hlive/5860e5f6-8fb6-486d-b52e-e857ea6967ba.m3u8
+#https://ott3.khanggtivi.xyz/source/171-243-49-23/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/1711724130/hlive/5860e5f6-8fb6-486d-b52e-e857ea6967ba.m3u8
+https://s12.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3
-https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxRTU1YUFqaklGSDY0ZlVOdGU2ZEdoeVJta3IvVmV4cG1HNS9IWVJ2dmlBQVdoMVlUTXJUZW9nS1piQ2VoMm5XekxBTGJ4RHhlN3JrNDRsN2Mzb1FWLzQ9/manifest.m3u8
+#https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxRTU1YUFqaklGSDY0ZlVOdGU2ZEdoeVJta3IvVmV4cG1HNS9IWVJ2dmlBQVdoMVlUTXJUZW9nS1piQ2VoMm5XekxBTGJ4RHhlN3JrNDRsN2Mzb1FWLzQ9/manifest.m3u8
+https://s2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV4
 http://str1.cvtv.xyz/htv4?token=live
