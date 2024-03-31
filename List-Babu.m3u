@@ -433,7 +433,7 @@ http://viettel.nekocdn.xyz/History/index.m3u8
 http://viettel.nekocdn.xyz/Discovery/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
-https://ott3.khanggtivi.xyz/livetv/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/qnettv/discoveryasia/master.m3u8
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://i.imgur.com/yUa1cMU.png", TVN Asia
 http://210.210.155.37/dr9445/h/h20/index.m3u8
