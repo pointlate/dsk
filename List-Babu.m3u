@@ -47,7 +47,7 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 https://wintv.fun/360/40/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/171.png", Sóc Trăng
-#https://lms-vnetwork-vtv.swiftfederation.com/soctrangtv/soctrangtv-720p.m3u8
+https://lms-vnetwork-vtv.swiftfederation.com/soctrangtv/soctrangtv-720p.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", Đồng Tháp
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
@@ -103,10 +103,10 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|Referer=http://sctvonl
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png", HTVC Phim 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+https://htvc271120.cdn.vnns.io/e5aca15ef05b15ccd6486e175907fd481712495424/htvcphim.adm.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/59.png", HTVC CaNhạc
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+https://1011154949.vnns.net/7da3da31d55aa4ba5cf36bca9639e3811712495502/htvccanhac.adm.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV ThểThao
 http://str1.cvtv.xyz/htvtt?token=live
@@ -308,26 +308,26 @@ https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/174.png", Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt HD
+https://htvc271120.cdn.vnns.io/790d927fe2e9a73d8ffa1dbde4a447fd1712495612/htvcthuanvietHD.adm.720p.tms/chunks.m3u8
+
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
-https://code.antmediatv.xyz/channel/bVlDMlE5Y0YyelZDMmJya2NWbUVRTFhIak8yTndVV2psOU1QWjVvZzNLSFBicTI2UmlwbDk1eGNRaWhPZDk0ZFNqUTBNT3ZJbG5hK3VBMnNnOFRlSEI4N0F4Wm56K3k3RTVabWxXTTI4SW5VMGFIMG16L0hyckh6RFVPeFJjVFE=/manifest.m3u8
+https://htvc271120.cdn.vnns.io/7c703c4566286e3a142688ae518d6bdb1712495879/thuanviet.cat.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png", HTVC Gia đình 
-https://code.antmediatv.xyz/channel/bVlDMlE5Y0YyelZDMmJya2NWbUVRSVRvSzRvY0FiRUYxQnpibmRBRGlacEk5aU9wdEc5RzVGK3RNclhISUdVb3JGaFZsUW9BQW0rdjNtUHBUVU1oRGdEdXVqUmtpRmxXeTk3c0ZnamdHQTdrbWFLeEFzWStMZFREL0xGcUV3Uno=/manifest.m3u8
+https://htvc271120.cdn.vnns.io/242f471af5265e32e31b31dec131ce861712495646/htvcgiadinh.adm.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/57.png", HTVC Phụ nữ
-https://code.antmediatv.xyz/channel/bVlDMlE5Y0YyelZDMmJya2NWbUVRSitvV2hNZDZLWGVaRW5XT1ZOdzZ3WUdzNWt6N2w5YjZDRk1UaVorZVNpSzJGWWI2T1UyNmx5REtNN0dFSGpMNUx6MFo0N1Z1T0FFRTR4NGZHbjlycGZBV3NkMVdlT2JRSlRxeXdxdHh5U2w=/manifest.m3u8
+https://1011154949.vnns.net/1746758d4cac04b5e2e828939e8a14c71712495676/htvcphunu.adm.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/58.png", HTVC Du lịch Cuộc sống 
-https://code.antmediatv.xyz/channel/bVlDMlE5Y0YyelZDMmJya2NWbUVRSHd2NmlIUnRaZzg2ODdoV3loQ2psaGJ4NFI1MnpPT05zZCtUWXZWTHpaSStNYzMxNWFrcmZDMTZVZnRkM0RCK25hMXhmZnBTdVdvNUliaVdoU1hWRGVjZVArZmVJOERIamhiYjJLdjBYeWhJRlBXQW1TOVV4SkpocEk3OGtTRk9RPT0=/manifest.m3u8
-
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/59.png", HTVC Ca nhạc 
-https://code.antmediatv.xyz/channel/bVlDMlE5Y0YyelZDMmJya2NWbUVRTlpGQzUyTTUzRTBGMjdLZHQ0bzJHdjBacCt2Q3g0aThIVUM4MHVVdmxQV1VtRytCSHcwL1JVd1pla1A0aGp6TnVBL2ZEdml1MDVYZ3NhT2RENUNieXJBZ2QzZEJoVnJZU3Zya1k3TGFKYkw=/manifest.m3u8
+https://htvc271120.cdn.vnns.io/921fe41e5c655afecd7fc0d442723ae71712495710/htvcdulich.adm.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png", HTVC Phim 
-https://code.antmediatv.xyz/channel/bVlDMlE5Y0YyelZDMmJya2NWbUVRR2wyZ0Nvdnc3Q3RXcVpobDZNbnYzdFVWSDRIZlQ0Kyt2eUh0bTBXcHk0dXFDVGJDTkZtek9xL3hURDlQd1R0dGpKS2FoVmZqV3prMmFQMndRYUh4N2Vaek9uY1BrNjFNTi93WFB0WWhiK2k=/manifest.m3u8
+https://htvc271120.cdn.vnns.io/28dfe1bacca8758a967cb3a1170118711712495824/htvcphim.adm.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/61.png", HTVC Plus
-https://code.antmediatv.xyz/channel/bVlDMlE5Y0YyelZDMmJya2NWbUVRRkRJWW5ZZVJwbnVkem5wYXNYQjZ4WkoyQUZZV2Jzak41eUxWMFcxTUg4dWpFb1duU0p5T2t6VDYzMXBJcDM0TWR0bktrVERqanUxbS9rdHNxamdCRUFCSkxXWVJJSjIzM0hBa0V5dllDa0Y=/manifest.m3u8
+https://htvc271120.cdn.vnns.io/3990fda7e6eb3453eebaf3f50966e2e31712495801/htvcplus.adm.720p.tms/chunks.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV Phim Tổng Hợp
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
