@@ -310,7 +310,8 @@ http://103.90.220.236/qtvlive/tv1live.m3u8
 http://103.90.220.236/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/170.png", Quảng Trị
-http://103.90.220.236/qrtvlive/tv1live.m3u8
+#https://103.90.220.236/qrtvlive/tv1live.m3u8
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/5aab77627f5db2ee08ee6a6b24e538f7/1712315044372/livetv/enc/6657dc02aaabc48fffcfad2026f4483b/playlist.mpd?h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/173.png", Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
