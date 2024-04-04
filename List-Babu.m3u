@@ -25,7 +25,8 @@ https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/20db01fab9dcc7377ac751b78dcf9e9b
 https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
-http://str1.cvtv.xyz/htv1?token=live
+#http://str1.cvtv.xyz/htv1?token=live
+https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/ac07887cdaa822ec6c59eba6163f423c/1712315696175/livetv/enc/93068c2a0ec828ae6ee56aa628341497/playlist.mpd?dvr=1&h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2
 https://htvc271120.cdn.vnns.io/415ac83f871c90936ede03a1cc32eaef1712290469/htv2.cat.720p.tms/playlist.m3u8
@@ -34,7 +35,8 @@ https://htvc271120.cdn.vnns.io/415ac83f871c90936ede03a1cc32eaef1712290469/htv2.c
 https://htvc271120.cdn.vnns.io/ced054fa773df4e0720cef577db550b81712350386/htv3.720p.nimble.tms/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV4
-http://str1.cvtv.xyz/htv4?token=live
+#http://str1.cvtv.xyz/htv4?token=live
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/218bb76bddec05f08f783b71991bf6ae/1712315838403/livetv/enc/91e13f38078114329b4b4d45f613924b/playlist.mpd?dvr=1&h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
