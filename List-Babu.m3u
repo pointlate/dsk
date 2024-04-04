@@ -264,10 +264,11 @@ https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u
 https://ott4.nethubtv.vn/live/khanhhoatv/chunklist_1.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/153.png", Kon Tum
-http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/bce2a092d80c61a29bd1eab6c0fc7d6e/1712313999310/livetv/enc/a8f1eb60af6121cf7652772e5201bab6/playlist.mpd?h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/154.png", Lai Châu
-https://code.antmediatv.xyz/channel/Z29iRzdyRlZ5ZDJFMmM1RDM3Njg5WUY3K2NoZGRsSnM4bHBYSDVUV0Foa3VZalgyVWZiRnNsYWdvQ0kxMGVreDlRVm1wQW40Q0F0Vy9RUnZ0MWU3ejZoOC9xVEFXRkVYeDdEd1AyMmthN0U9/manifest.m3u8
+http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/156.png", Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
