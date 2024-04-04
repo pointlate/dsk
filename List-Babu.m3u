@@ -280,7 +280,7 @@ https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/159.png", Nam Định
-https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxQ2FzU3phdmNVa2dUbGJCdmF6QVVOTEdCNnh1Vy9EVmU4TlV3RjZ3YjlyQ3cyRDVUd0UyVFlMS2pEbnpJdng2U2pmQXhVcWxwa0FBY29OMHlMeG5xSUE9/manifest.m3u8
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/d0cd66e1fb174102b87054264a5aa96f/1712314690647/livetv/enc/b7c44443e27fe4eb00993a50d54db6f7/playlist.mpd?h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png", Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
@@ -289,7 +289,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/163.png", Phú Thọ
-https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxRHF0YyswVGJPaFkxR3RrNGJvQW9Nd2lHZGVIMjBVL0NJaTMzR1lHckZRNkJlNUE1UGwwSHlnNGNtK3djLzB0NHdvckluWkV2NTB6RE9UaE1vclNNQlk9/manifest.m3u8
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/fffa4f42cf8a086c1507065b399deaef/1712314762582/livetv/enc2/f8dc6464cbcecd9844c85762f521e99d/playlist.mpd?c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/164.png", Phú Yên
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
@@ -352,7 +352,7 @@ https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/178.png", Thanh Hóa
-https://ott3.khanggtivi.xyz/source/171-243-49-23/T3prVkx5NndGTHE0UXJIYUpLeU93ZG9CNmNUc1dGM1BiWjY4ejFaSERlM0JEVlhlaWlSNWwxMjFJeElNRElnUVFuU1RKNXF2UFNidGRmek8reG8rS3c9PQ==/1711724130/fptplay/thanh-hoa.m3u8
+https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/b32796b5eacb3fff0b2f8a2815a32879/1712314868334/livetv/enc/331539b2024ad0c3bdb8812c6bc3c6a9/playlist.mpd?h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png", Thừa Thiên Huế
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
