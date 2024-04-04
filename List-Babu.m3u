@@ -1,4 +1,4 @@
-1111EXTM3U url-tvg="https://lichphatsong.xyz/schedule/khanggtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml,https://f56ba39027.vws.khanggtivi.xyz/epg/.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/khanggtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml,https://f56ba39027.vws.khanggtivi.xyz/epg/.xml" tvg-shift=0 m3uautoload=1
 
 #PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw/" list2="https://bit.ly/beartvplay" list3="https://www.antmediatv.xyz/" list4="https://www.khanggtivi.xyz/"
 list5="http://gg.gg/sn-tv" list6="http://gg.gg/list-babu"
