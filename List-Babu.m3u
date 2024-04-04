@@ -28,7 +28,8 @@ https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 http://str1.cvtv.xyz/htv1?token=live
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2
-https://htvc271120.cdn.vnns.io/415ac83f871c90936ede03a1cc32eaef1712290469/htv2.cat.720p.tms/playlist.m3u8
+#https://htvc271120.cdn.vnns.io/415ac83f871c90936ede03a1cc32eaef1712290469/htv2.cat.720p.tms/playlist.m3u8
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/htv2/index.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3
 https://htvc271120.cdn.vnns.io/ced054fa773df4e0720cef577db550b81712350386/htv3.720p.nimble.tms/playlist.m3u8
