@@ -228,7 +228,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w846180151_b1384000.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/138.png", Gia Lai
-https://code.antmediatv.xyz/channel/MC9obUliOEdCS3MyMThSdjJERnAxRTVjVndjM0RSU0VEdjVLUjZDY2ZPK3Q5ZVR6cE5pZlBoR0JTT1lPcTRNblR2TThobDFldjJEWEVsUXhwV1pFZHBCVXB4N0NYU2hvTldSNGpiemZjTjA9/man ifest.m3u8
+https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/2ffd8da4f2be07504189819d1a04843c/1712313858701/livetv/enc/9f4355c411f129b47035075582d97e8f/playlist.mpd?h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/139.png", Hà Giang
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
