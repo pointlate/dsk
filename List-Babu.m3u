@@ -7,18 +7,16 @@ list5="http://gg.gg/sn-tv" list6="http://gg.gg/list-babu"
 
 #-*--LIST-*--#
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", Vĩnh Long1
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="LIST" tvg-logo="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD | TH Vĩnh Long
+thvl/thvl1-hd
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", Vĩnh Long2
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD | TH Vĩnh Long
+thvl/thvl2-hd
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", Vĩnh Long3
-#https://wintv.fun/360/219/index.m3u8
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD | TH Vĩnh Long
 thvl/thvl3-hd
 
-#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", Vĩnh Long4
-#https://wintv.fun/360/220/index.m3u8
+#EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD | TH Vĩnh Long
 thvl/thvl4-hd
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", Trà Vinh
