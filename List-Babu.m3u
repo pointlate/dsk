@@ -80,7 +80,8 @@ https://1011154949.vnns.net/e7ba3c242ff72d86cf0956c38b51552e1712351384/baclieu1.
 https://1011154949.vnns.net/adba969d2a1de6fdef43c466575079021712351889/kiengiang.720p.adm.tms/playlist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/125.png", Cà Mau
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#https://tv.ctvcamau.vn/live/tv/tv.m3u8
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/dcaa1f240832a294aeaa7c7131ff6bbc/1712316025164/livetv/enc/e5566ce84dbd12af9b594911da257b70/playlist.mpd?h=720&c=h
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1        
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
