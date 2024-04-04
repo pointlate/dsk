@@ -359,7 +359,11 @@ https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/b32796b5eacb3fff0b2f8a2815a32879
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang
-https://live.tuyenquangtv.vn/hls/ttv.m3u8
+#https://live.tuyenquangtv.vn/hls/ttv.m3u8
+https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/26c8f9329722851441e49c778cb38e62/1712315450698/livetv/enc/5b148b3f3c28d59ed50e472be07f7ebe/playlist.mpd?h=720&c=h
+
+
+
 
 #EXTINF:-1 group-title="LIST" tvg-logo="https://cdn.hqth.me/logo/thumbs/183.png", Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w188836389.m3u8
