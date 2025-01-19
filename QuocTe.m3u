@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw/" list2="https://bit.ly/beartvplay" list3="http://synguyen.xyz/sntv/tv/iptv" list4="http://gg.gg/list-babu"
+#PLAYLISTINF:LTN version="V01" list1="https://s.id/list-babu" list2="https://tth.vn/vmttv"
 #EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
 #Update: 20/01/2025
 
@@ -42,6 +42,46 @@ http://ky-iptv.com:80/live/Ivica5274/juric4005/2074457.ts
 
 #EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/584498.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png", Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/14_1baa02dd.jpg", Dr.Fit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://shopvophu.com/tv360.php?id=163
 
 #EXTINF:-1 group-title="KÊNH" tvg-logo="https://www.dafont.com/forum/attach/orig/4/4/442855.png?1", Boomerang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
