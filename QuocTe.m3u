@@ -1,0 +1,232 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#PLAYLISTINF:LTN version="V01" list1="https://playlist.vthanhtivi.pw/" list2="https://bit.ly/beartvplay" list3="http://synguyen.xyz/sntv/tv/iptv" list4="http://gg.gg/list-babu"
+#EXTM3U Cảm Ơn Bảo Chính - vthanhtivi - beartv - Cảm ơn nguồn 1 số kênh của các bạn làm list khác.
+#Update: 20/01/2025
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img.lichphatsong.xyz/logo/hbohitshd-asia.png", HBO Hits HD
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052512.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img.lichphatsong.xyz/logo/hbofamilyhd-asia.png", HBO Family HD
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052503.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png", HBO Signature HD
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/76264.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp", Asian Food Network
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tv.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= {"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
+http://ky-iptv.com:80/live/Ivica5274/juric4005/2074457.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/584498.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://www.dafont.com/forum/attach/orig/4/4/442855.png?1", Boomerang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
+http://ky-iptv.com:80/live/Ivica5274/juric4005/1105474.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://user-content.static.wf/avidwiki/9/9e/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052418.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052421.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC World News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg
+http://p1.cvtv.xyz:81/bb?token=live
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
+http://p1.cvtv.xyz:81/cnbc?token=live
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://deadline.com/wp-content/uploads/2020/09/CNN-Logo.jpg", CNN
+http://kstv.us:8080/live/Wzt43zDP8x/2355011455/47760.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/hq720.jpg", CGTN
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/269817.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ytimg.com/vi/QbB9p0LDAyE/maxresdefault.jpg", CGTN Documentary
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/323620.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://information.tv5monde.com/sites/tv5-info/files/styles/entete/public/2023-11/tv5monde_logo.jpg", TV5Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ytimg.com/vi/puzK9XqJ6-Y/hq720.jpg", DW
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ytimg.com/vi/blOcbUNZlHY/maxresdefault.jpg", Da Vinci HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://m.media-amazon.com/images/I/81oryzEMf-L.png", France 24
+http://p1.cvtv.xyz:81/f24?token=live
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/KBSWORLD.jpg", KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png", NHK World
+http://p1.cvtv.xyz:81/nhkw?token=live
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
+https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
+http://p1.cvtv.xyz:81/trtw?token=live
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://identsandpresentation.com/animalplanet2018/stingone-d.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://s129135.cdn.mytvnet.vn/vimages/a5/59/9a/a3/39/9c/a59a3-pdiscoveryasiahd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
+#EXTVLCOPT:http-user-agent="KIIP"
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1064635.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
+#EXTVLCOPT:http-user-agent="KIIP"
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1064636.ts
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.imgur.com/vHmt91V.png", DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://49.0.64.96:8007/ABC
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://176.119.29.52:80/live.ts?channelId=129181&uid=10083&deviceMac=00:1A:79:10:1B:23
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://sv.tvmienphi.xyz/m3u8/tvmienphi.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5f/784px-Tvb_logo.svg.png", TVB Việt Nam
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi, Celestial Movies
+http://176.119.29.52:80/live.ts?channelId=129237&uid=10083&deviceMac=00:1A:79:10:1B:23
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png, Clubbingtv
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs, Filmbox
+http://94.230.240.17:8080/film_box/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://i.imgur.com/M87kbVk.png", Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png", Bloomberg 4K
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png", ONE
+http://mykingtv.net:2082/gadget1k85/pass1k85/8468
+
